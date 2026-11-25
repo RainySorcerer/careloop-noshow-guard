@@ -1,0 +1,1021 @@
+appointment_id,patient_id,clinic_id,booked_on,appt_date,age,gender,distance_km,fee_inr,booking_channel,visit_type,reminder_sent,prior_no_shows,status
+A0001,P460,C02,2025-01-23,2025-01-28,18,M,0.7,226,App,Consultation,Yes,1,Attended
+A0002,P097,C02,2025-05-28,2025-06-01,18,M,0.7,227,app,Follow-up,No,0,Attended
+A0003,P314,C03,2025-01-13,2025-01-17,18,M,0.7,228,APP,Follow-up,No,1,Attended
+A0004,P692,C05,2025-02-03,2025-02-09,18,F,0.8,229, App,Follow-up,Yes,0,Attended
+A0005,P157,C07,2025-02-09,2025-02-10,18,M,0.8,230,App ,Follow-up,Yes,0,Attended
+A0006,P478,C03,2025-06-04,2025-06-08,18,F,0.8,231,Phone,Follow-up,Yes,0,Attended
+A0007,P725,C02,2025-03-11,2025-03-15,18,M,0.8,232,phone,Consultation,Yes,2,Attended
+A0008,P519,C07,2025-06-09,2025-06-15,18,M,0.8,233,PHONE,Consultation,Yes,0,Attended
+A0009,P077,C06,2025-03-14,2025-03-16,18,M,0.8,234, Phone,Consultation,No,0,Attended
+A0010,P153,C07,2025-02-20,2025-02-22,18,M,0.8,236,Phone ,Follow-up,Yes,0,Attended
+A0011,P115,C02,2025-01-01,2025-01-07,19,M,0.9,237,Walk-in,Consultation,Yes,1,No-Show
+A0012,P146,C06,2025-02-06,2025-02-09,19,M,0.9,238,Walk-In,Consultation,No,0,Attended
+A0013,P239,C05,2025-03-02,2025-03-04,19,F,0.9,239,walk-in,Consultation,No,0,Attended
+A0014,P093,C02,2025-05-22,2025-05-27,19,F,0.9,240,WALK-IN,Consultation,No,0,No-Show
+A0015,P166,C03,2025-06-24,2025-06-25,19,M,0.9,241, Walk-In,Consultation,No,2,No-Show
+A0016,P119,C06,2025-06-05,2025-06-08,19,F,0.9,242,Walk-In ,Consultation,Yes,0,Attended
+A0017,P591,C05,2025-05-31,2025-06-06,20,M,1.0,243,App ,Consultation,Yes,0,Attended
+A0018,P028,C07,2025-06-17,2025-06-22,20,M,1.0,244,App ,Follow-up,No,1,No-Show
+A0019,P186,C01,2025-05-12,2025-05-14,20,F,1.0,246,App,Follow-up,Yes,1,Attended
+A0020,P152,C05,2025-02-21,2025-02-25,21,M,1.0,247,phone,Follow-up,No,0,Attended
+A0021,P331,C04,2025-03-16,2025-03-22,21,F,1.0,248, Phone,Consultation,Yes,2,Attended
+A0022,P231,C06,2025-05-29,2025-06-04,21,F,1.0,249,App ,Follow-up,No,0,Attended
+A0023,P590,C04,2025-04-17,2025-04-18,22,F,1.0,250, Phone,Consultation,No,1,Attended
+A0024,P717,C08,2025-03-11,2025-03-15,22,M,1.1,251,phone,Consultation,Yes,2,Attended
+A0025,P054,C04,2025-02-22,2025-02-25,22,F,1.1,252, App,Consultation,Yes,0,Attended
+A0026,P034,C08,2025-04-10,2025-04-11,22,F,1.1,253,phone,Consultation,No,0,Attended
+A0027,P439,C04,2025-01-30,2025-02-03,23,F,1.1,254,APP,Consultation,Yes,0,Attended
+A0028,P356,C02,2025-03-25,2025-03-26,23,M,1.1,256,Walk-In ,Follow-up,Yes,2,Attended
+A0029,P118,C03,2025-04-03,2025-04-08,23,F,1.1,257,app,Consultation,No,1,Attended
+A0030,P047,C07,2025-01-03,2025-01-08,24,M,1.2,258,Phone ,Consultation,No,2,No-Show
+A0031,P123,C01,2025-03-29,2025-04-02,24,M,1.2,259,App,Consultation,No,0,Attended
+A0032,P297,C04,2025-06-03,2025-06-04,24,M,1.2,260,Phone,Follow-up,No,0,Attended
+A0033,P397,C08,2025-05-21,2025-05-22,24,F,1.2,261,PHONE,Consultation,Yes,2,Attended
+A0034,P524,C01,2025-03-20,2025-03-22,24,F,1.2,262,App,Consultation,No,2,Attended
+A0035,P533,C03,2025-05-14,2025-05-17,24,F,1.2,263,Phone ,Follow-up,No,2,No-Show
+A0036,P159,C06,2025-04-28,2025-05-05,24,M,1.2,264,app,Consultation,No,0,Attended
+A0037,P192,C05,2025-02-06,2025-02-08,24,F,1.3,266,App,Consultation,No,0,Attended
+A0038,P006,C05,2025-02-12,2025-02-16,24,M,1.3,267,APP,Consultation,Yes,0,Attended
+A0039,P294,C05,2025-03-22,2025-03-24,25,M,1.3,268, Walk-In,Follow-up,Yes,0,Attended
+A0040,P010,C04,2025-02-24,2025-03-02,25,F,1.3,269, App,Consultation,Yes,0,Attended
+A0041,P389,C01,2025-06-01,2025-06-07,25,M,1.3,270,App,Consultation,Yes,0,Attended
+A0042,P133,C05,2025-02-11,2025-02-16,25,M,1.3,271, App,Consultation,No,1,Attended
+A0043,P642,C01,2025-05-06,2025-05-12,25,M,1.4,272,APP,Consultation,No,0,No-Show
+A0044,P367,C03,2025-04-26,2025-05-02,25,M,1.4,273,Phone ,Consultation,No,0,Attended
+A0045,P124,C04,2025-04-06,2025-04-09,26,M,1.4,274,phone,Consultation,No,0,Attended
+A0046,P475,C06,2025-04-08,2025-04-11,26,M,1.4,276,Walk-in,Consultation,No,0,Attended
+A0047,P503,C06,2025-05-09,2025-05-14,26,M,1.4,277,App ,Follow-up,Yes,0,No-Show
+A0048,P170,C04,2025-03-16,2025-03-19,26,F,1.4,278,app,Consultation,Yes,0,Attended
+A0049,P202,C04,2025-01-27,2025-01-28,26,F,1.4,279, App,Consultation,Yes,0,Attended
+A0050,P597,C02,2025-06-02,2025-06-05,26,M,1.5,280, Phone,Consultation,Yes,0,Attended
+A0051,P083,C03,2025-04-07,2025-04-10,26,M,1.5,281, App,Consultation,No,0,Attended
+A0052,P106,C03,2025-04-25,2025-04-28,26,M,1.5,282, App,Follow-up,Yes,0,Attended
+A0053,P615,C04,2025-05-15,2025-05-21,26,F,1.5,283, App,Consultation,No,0,Attended
+A0054,P539,C03,2025-05-17,2025-05-22,26,F,1.5,284,Walk-in,Follow-up,Yes,2,Attended
+A0055,P135,C06,2025-04-13,2025-04-14,26,F,1.5,286,Phone,Consultation,Yes,0,Attended
+A0056,P566,C01,2025-01-09,2025-01-14,27,M,1.6,287,APP,Follow-up,Yes,2,Attended
+A0057,P233,C01,2025-05-12,2025-05-14,27,F,1.6,288,Walk-In,Follow-up,Yes,2,Attended
+A0058,P448,C03,2025-04-20,2025-04-24,27,M,1.6,289,WALK-IN,Consultation,Yes,2,No-Show
+A0059,P611,C07,2025-05-17,2025-05-18,27,M,1.6,290, App,Consultation,No,0,Attended
+A0060,P457,C03,2025-02-02,2025-02-06,27,M,1.6,291, App,Follow-up,Yes,3,No-Show
+A0061,P212,C07,2025-05-20,2025-05-25,27,M,1.6,292,Phone ,Consultation,No,0,Attended
+A0062,P064,C08,2025-05-07,2025-05-09,27,F,1.6,293,APP,Consultation,Yes,2,Attended
+A0063,P053,C02,2025-01-03,2025-01-04,28,F,1.7,294,WALK-IN,Consultation,Yes,0,Attended
+A0064,P025,C07,2025-04-13,2025-04-14,28,M,1.7,296,app,Consultation,Yes,1,Attended
+A0065,P562,C01,2025-01-10,2025-01-12,28,M,1.7,297,PHONE,Consultation,Yes,1,Attended
+A0066,P671,C08,2025-04-06,2025-04-11,28,F,1.7,298,phone,Consultation,No,1,Attended
+A0067,P137,C01,2025-06-21,2025-06-22,28,M,1.7,299,PHONE,Consultation,No,0,Attended
+A0068,P336,C01,2025-05-30,2025-06-03,28,M,1.7,300,PHONE,Follow-up,Yes,0,Attended
+A0069,P074,C08,2025-02-22,2025-02-24,28,M,1.8,301, App,Consultation,Yes,0,Attended
+A0070,P117,C02,2025-06-06,2025-06-13,28,M,1.8,302,App,Follow-up,Yes,0,Attended
+A0071,P130,C05,2025-04-02,2025-04-06,28,F,1.8,303,Phone,Follow-up,Yes,2,No-Show
+A0072,P153,C06,2025-05-21,2025-05-28,28,M,1.8,304,app,Consultation,No,0,No-Show
+A0073,P217,C07,2025-01-17,2025-01-20,28,F,1.8,306,PHONE,Follow-up,Yes,1,Attended
+A0074,P301,C01,2025-05-21,2025-05-26,28,F,1.8,307,App,Consultation,No,1,Attended
+A0075,P176,C05,2025-03-01,2025-03-05,28,F,1.8,308,walk-in,Follow-up,No,0,Attended
+A0076,P487,C02,2025-03-21,2025-03-24,28,M,1.9,309,app,Follow-up,Yes,0,Attended
+A0077,P365,C04,2025-06-10,2025-06-16,28,M,1.9,310,App ,Consultation,No,2,No-Show
+A0078,P002,C02,2025-02-06,2025-02-07,28,M,1.9,311,App,Follow-up,Yes,0,Attended
+A0079,P433,C06,2025-03-19,2025-03-23,28,M,1.9,312,APP,Consultation,Yes,0,Attended
+A0080,P674,C02,2025-03-02,2025-03-04,29,F,1.9,313,App ,Consultation,Yes,0,Attended
+A0081,P669,C06,2025-06-24,2025-06-27,29,M,1.9,314,App ,Follow-up,No,0,Attended
+A0082,P614,C04,2025-06-02,2025-06-04,29,M,2.0,316, App,Consultation,No,0,Attended
+A0083,P058,C03,2025-01-19,2025-01-25,29,F,2.0,317,Walk-In,Consultation,No,0,No-Show
+A0084,P415,C01,2025-03-14,2025-03-19,29,F,2.0,318,APP,Follow-up,Yes,0,Attended
+A0085,P027,C05,2025-05-01,2025-05-07,29,F,2.0,319,PHONE,Follow-up,Yes,0,Attended
+A0086,P092,C05,2025-04-03,2025-04-04,29,F,2.0,320,Phone,Follow-up,No,0,Attended
+A0087,P449,C01,2025-01-05,2025-01-09,29,F,2.0,321, App,Consultation,No,0,Attended
+A0088,P587,C02,2025-01-28,2025-02-03,29,F,2.0,322,APP,Consultation,Yes,2,Attended
+A0089,P569,C04,2024-12-29,2025-01-02,30,F,2.1,323,WALK-IN,Consultation,No,0,Attended
+A0090,P116,C01,2025-01-19,2025-01-25,30,F,2.1,324, App,Follow-up,No,0,No-Show
+A0091,P211,C06,2025-05-11,2025-05-13,30,F,2.1,326,App,Follow-up,Yes,0,Attended
+A0092,P002,C06,2025-03-06,2025-03-08,30,M,2.1,327,PHONE,Consultation,Yes,0,Attended
+A0093,P016,C03,2025-03-12,2025-03-15,30,M,2.1,328,PHONE,Follow-up,Yes,1,Attended
+A0094,P495,C05,2025-06-16,2025-06-18,30,M,2.1,329,APP,Consultation,Yes,0,Attended
+A0095,P017,C05,2025-06-19,2025-06-20,30,M,2.2,330,app,Consultation,Yes,0,Attended
+A0096,P105,C05,2025-04-30,2025-05-06,30,M,2.2,331,App,Consultation,No,1,No-Show
+A0097,P149,C06,2025-05-05,2025-05-08,30,M,2.2,332,PHONE,Follow-up,Yes,0,Attended
+A0098,P044,C02,2025-06-22,2025-06-27,30,F,2.2,333,Walk-In ,Consultation,Yes,0,Attended
+A0099,P216,C08,2025-05-09,2025-05-16,30,M,2.2,334,PHONE,Follow-up,No,0,Attended
+A0100,P509,C01,2025-02-04,2025-02-11,30,M,2.2,336, App,Consultation,No,1,No-Show
+A0101,P407,C05,2025-04-21,2025-04-27,30,M,2.2,337,WALK-IN,Consultation,Yes,0,Attended
+A0102,P245,C02,2025-04-01,2025-04-08,30,M,2.3,338,WALK-IN,Consultation,Yes,2,No-Show
+A0103,P721,C07,2025-05-13,2025-05-16,30,F,2.3,339, App,Follow-up,No,0,Attended
+A0104,P083,C06,2025-06-03,2025-06-04,31,F,2.3,340,Phone ,Follow-up,No,0,Attended
+A0105,P445,C01,2024-12-28,2025-01-03,31,M,2.3,341,WALK-IN,Follow-up,Yes,1,Attended
+A0106,P014,C06,2025-06-04,2025-06-07,31,F,2.3,342, Phone,Consultation,Yes,0,Attended
+A0107,P197,C03,2025-01-04,2025-01-08,31,F,2.3,343,app,Follow-up,No,1,No-Show
+A0108,P050,C06,2025-02-03,2025-02-05,31,M,2.4,344,Walk-in,Consultation,No,2,Attended
+A0109,P219,C02,2025-06-10,2025-06-16,31,M,2.4,346,Walk-in,Consultation,No,1,No-Show
+A0110,P004,C08,2025-04-26,2025-05-01,31,F,2.4,347,Phone,Follow-up,No,1,No-Show
+A0111,P193,C02,2025-02-26,2025-02-27,31,M,2.4,348,PHONE,Consultation,Yes,2,Attended
+A0112,P432,C06,2025-05-16,2025-05-17,31,F,2.4,349,app,Consultation,Yes,0,Attended
+A0113,P115,C05,2025-04-22,2025-04-25,31,M,2.4,350,APP,Consultation,Yes,0,Attended
+A0114,P470,C03,2025-04-16,2025-04-20,31,M,2.4,351, App,Follow-up,No,0,Attended
+A0115,P230,C06,2025-05-18,2025-05-22,32,F,2.5,352,Walk-In,Consultation,No,2,No-Show
+A0116,P010,C08,2025-06-21,2025-06-26,32,M,2.5,353,App,Consultation,Yes,1,Attended
+A0117,P694,C01,2025-06-07,2025-06-08,32,M,2.5,354,Phone,Follow-up,No,2,Attended
+A0118,P065,C08,2025-04-08,2025-04-10,32,M,2.5,356, Phone,Consultation,No,2,Attended
+A0119,P683,C02,2025-03-15,2025-03-22,32,F,2.5,357,app,Consultation,Yes,2,Attended
+A0120,P052,C08,2025-04-04,2025-04-09,32,M,2.5,358,phone,Consultation,No,1,Attended
+A0121,P321,C02,2025-04-16,2025-04-17,32,F,2.6,359,APP,Follow-up,Yes,0,Attended
+A0122,P350,C05,2025-04-12,2025-04-13,32,F,2.6,360,Phone ,Consultation,Yes,2,Attended
+A0123,P444,C01,2025-05-02,2025-05-09,32,M,2.6,361, Phone,Consultation,No,1,Attended
+A0124,P133,C05,2025-04-26,2025-04-27,32,F,2.6,362,Walk-In,Consultation,No,0,Attended
+A0125,P739,C07,2025-05-17,2025-05-18,33,F,2.6,363,App ,Consultation,No,0,Attended
+A0126,P098,C01,2025-01-14,2025-01-16,33,F,2.6,364,app,Consultation,Yes,0,Attended
+A0127,P081,C08,2025-06-12,2025-06-18,33,M,2.6,366,Phone,Consultation,No,0,Attended
+A0128,P323,C01,2025-06-02,2025-06-05,33,M,2.7,367,App,Follow-up,No,0,Attended
+A0129,P123,C02,2025-05-22,2025-05-25,33,F,2.7,368,phone,Consultation,Yes,1,No-Show
+A0130,P506,C07,2025-02-28,2025-03-01,33,F,2.7,369,App,Consultation,No,1,Attended
+A0131,P362,C03,2025-06-07,2025-06-10,33,M,2.7,370,Phone,Consultation,No,0,Attended
+A0132,P013,C02,2025-04-01,2025-04-03,33,F,2.7,371,app,Follow-up,Yes,0,Attended
+A0133,P647,C07,2025-05-12,2025-05-13,33,M,2.7,372, Phone,Consultation,Yes,0,Attended
+A0134,P051,C01,2025-02-17,2025-02-19,33,F,2.8,373, App,Consultation,No,0,Attended
+A0135,P011,C05,2025-02-12,2025-02-17,33,F,2.8,374,app,Consultation,Yes,0,Attended
+A0136,P175,C07,2025-05-25,2025-05-27,33,M,2.8,376,APP,Follow-up,No,1,Attended
+A0137,P459,C04,2025-04-30,2025-05-04,33,F,2.8,377,phone,Consultation,Yes,0,Attended
+A0138,P496,C06,2025-05-16,2025-05-17,33,F,2.8,378,PHONE,Consultation,No,0,Attended
+A0139,P108,C01,2025-04-17,2025-04-18,33,M,2.8,379, Walk-In,Follow-up,Yes,2,Attended
+A0140,P616,C08,2025-05-21,2025-05-24,34,F,2.8,380,Phone ,Follow-up,Yes,1,Attended
+A0141,P183,C01,2025-05-06,2025-05-12,34,F,2.9,381,APP,Follow-up,Yes,0,Attended
+A0142,P237,C02,2025-04-14,2025-04-15,34,F,2.9,382,App,Consultation,Yes,2,Attended
+A0143,P146,C07,2025-06-01,2025-06-04,34,F,2.9,383,Phone ,Consultation,Yes,0,Attended
+A0144,P645,C01,2025-01-24,2025-01-26,34,F,2.9,384,PHONE,Consultation,Yes,1,Attended
+A0145,P196,C06,2025-03-18,2025-03-19,34,M,2.9,386,Walk-In,Consultation,No,0,Attended
+A0146,P290,C02,2025-04-08,2025-04-14,34,F,2.9,387,APP,Follow-up,No,1,No-Show
+A0147,P057,C03,2025-02-11,2025-02-18,34,M,3.0,388,app,Consultation,No,2,No-Show
+A0148,P195,C02,2025-04-08,2025-04-13,34,F,3.0,389,app,Follow-up,Yes,1,No-Show
+A0149,P319,C06,2025-04-07,2025-04-12,34,F,3.0,390,app,Consultation,No,0,Attended
+A0150,P179,C03,2025-05-17,2025-05-20,34,F,3.0,391, App,Follow-up,Yes,0,Attended
+A0151,P456,C01,2025-02-23,2025-02-27,34,F,3.0,392,PHONE,Follow-up,No,0,Attended
+A0152,P050,C04,2025-04-25,2025-05-01,34,M,3.0,393,Walk-In ,Follow-up,Yes,0,Attended
+A0153,P305,C06,2025-03-30,2025-04-02,34,F,3.0,394,Phone ,Follow-up,Yes,0,Attended
+A0154,P194,C04,2025-01-06,2025-01-09,34,F,3.1,396,App ,Consultation,No,0,Attended
+A0155,P082,C08,2025-01-16,2025-01-17,34,F,3.1,397,Phone ,Consultation,Yes,0,Attended
+A0156,P384,C02,2025-02-03,2025-02-05,34,M,3.1,398, App,Consultation,Yes,1,Attended
+A0157,P238,C01,2025-01-19,2025-01-21,34,F,3.1,399,Phone,Consultation,Yes,1,Attended
+A0158,P734,C01,2025-01-19,2025-01-26,34,M,3.1,400,APP,Consultation,No,0,Attended
+A0159,P190,C07,2025-01-11,2025-01-16,34,M,3.1,401,App ,Consultation,Yes,2,Attended
+A0160,P264,C06,2025-01-22,2025-01-25,35,F,3.1,402, App,Consultation,Yes,1,Attended
+A0161,P102,C08,2025-01-15,2025-01-16,35,M,3.2,403,App ,Follow-up,Yes,0,Attended
+A0162,P745,C06,2025-05-09,2025-05-14,35,M,3.2,404,App ,Follow-up,No,0,Attended
+A0163,P037,C07,2025-04-26,2025-04-28,35,F,3.2,406,APP,Consultation,Yes,1,Attended
+A0164,P035,C01,2025-04-14,2025-04-21,35,M,3.2,407, App,Consultation,Yes,0,No-Show
+A0165,P427,C01,2025-03-27,2025-04-02,35,F,3.2,408,app,Consultation,No,1,Attended
+A0166,P481,C01,2025-06-15,2025-06-20,35,M,3.2,409,phone,Consultation,No,2,Attended
+A0167,P617,C03,2025-01-10,2025-01-17,35,F,3.3,410,PHONE,Follow-up,No,1,No-Show
+A0168,P188,C02,2025-05-02,2025-05-04,35,M,3.3,411,app,Consultation,No,0,Attended
+A0169,P214,C06,2025-05-11,2025-05-12,35,F,3.3,412,App,Consultation,Yes,1,Attended
+A0170,P419,C03,2025-02-10,2025-02-17,35,M,3.3,413,Walk-In ,Consultation,Yes,0,No-Show
+A0171,P730,C03,2025-03-18,2025-03-25,35,F,3.3,414, Walk-In,Consultation,No,0,No-Show
+A0172,P658,C06,2025-01-04,2025-01-05,35,F,3.3,416,APP,Consultation,No,0,Attended
+A0173,P213,C02,2025-05-14,2025-05-15,35,M,3.3,417,APP,Follow-up,No,0,Attended
+A0174,P030,C04,2025-05-20,2025-05-24,35,M,3.4,418,Walk-In,Follow-up,Yes,1,Attended
+A0175,P743,C01,2025-05-01,2025-05-06,35,F,3.4,419,walk-in,Follow-up,No,0,No-Show
+A0176,P435,C03,2025-01-08,2025-01-11,35,F,3.4,420, Phone,Consultation,Yes,2,No-Show
+A0177,P106,C07,2025-05-10,2025-05-16,36,M,3.4,421,walk-in,Consultation,No,0,Attended
+A0178,P056,C08,2025-02-18,2025-02-25,36,F,3.4,422,App,Consultation,Yes,0,No-Show
+A0179,P033,C03,2025-03-22,2025-03-23,36,F,3.4,423,Walk-in,Consultation,Yes,1,Attended
+A0180,P656,C03,2025-05-09,2025-05-12,36,F,3.5,424,Phone ,Follow-up,No,0,Attended
+A0181,P032,C04,2025-05-21,2025-05-26,36,M,3.5,426,Phone ,Follow-up,Yes,1,Attended
+A0182,P458,C07,2025-03-09,2025-03-11,36,M,3.5,427,Phone,Consultation,Yes,0,Attended
+A0183,P486,C07,2025-01-09,2025-01-14,36,F,3.5,428, App,Consultation,Yes,0,Attended
+A0184,P109,C05,2025-03-29,2025-04-02,36,M,3.5,429,App ,Consultation,No,2,Attended
+A0185,P224,C07,2025-06-17,2025-06-24,36,M,3.5,430,app,Consultation,No,0,No-Show
+A0186,P237,C02,2025-02-25,2025-03-04,36,F,3.5,431,App ,Consultation,Yes,1,Attended
+A0187,P111,C02,2025-05-09,2025-05-14,36,M,3.6,432,Phone,Follow-up,No,0,No-Show
+A0188,P054,C01,2025-05-10,2025-05-17,36,M,3.6,433,app,Follow-up,No,1,No-Show
+A0189,P633,C02,2025-05-10,2025-05-13,36,F,3.6,434,APP,Consultation,No,1,Attended
+A0190,P491,C04,2025-01-27,2025-02-01,36,M,3.6,436, Walk-In,Consultation,No,0,Attended
+A0191,P023,C01,2025-03-14,2025-03-18,36,M,3.6,437,App ,Consultation,Yes,2,No-Show
+A0192,P112,C02,2025-06-18,2025-06-22,36,F,3.6,438,Phone,Follow-up,Yes,1,Attended
+A0193,P036,C07,2025-06-10,2025-06-17,36,F,3.7,439,phone,Consultation,No,1,No-Show
+A0194,P066,C04,2025-05-15,2025-05-17,36,F,3.7,440,PHONE,Follow-up,Yes,2,Attended
+A0195,P017,C02,2025-03-15,2025-03-16,36,M,3.7,441,Phone,Consultation,No,2,Attended
+A0196,P446,C06,2025-06-16,2025-06-21,36,F,3.7,442,Walk-In ,Consultation,Yes,0,Attended
+A0197,P006,C04,2025-02-19,2025-02-23,36,F,3.7,443,phone,Follow-up,No,0,Attended
+A0198,P215,C06,2025-06-16,2025-06-17,36,M,3.7,444,PHONE,Consultation,Yes,0,Attended
+A0199,P063,C01,2025-01-23,2025-01-25,36,F,3.7,446,PHONE,Follow-up,No,0,Attended
+A0200,P210,C06,2025-04-10,2025-04-15,37,M,3.8,447,App ,Consultation,Yes,2,Attended
+A0201,P598,C03,2025-04-11,2025-04-17,37,F,3.8,448,App,Consultation,No,2,No-Show
+A0202,P183,C04,2025-04-01,2025-04-02,37,M,3.8,449,app,Consultation,Yes,0,Attended
+A0203,P545,C02,2025-01-20,2025-01-25,37,F,3.8,450, App,Consultation,No,0,Attended
+A0204,P128,C07,2025-05-18,2025-05-24,37,F,3.8,451,App,Consultation,No,0,Attended
+A0205,P103,C06,2025-06-19,2025-06-22,37,F,3.8,452,PHONE,Follow-up,Yes,0,Attended
+A0206,P120,C07,2025-02-16,2025-02-20,37,F,3.9,453,APP,Consultation,Yes,0,Attended
+A0207,P347,C06,2025-03-17,2025-03-20,37,M,3.9,454,PHONE,Follow-up,Yes,1,Attended
+A0208,P145,C08,2025-03-17,2025-03-21,37,M,3.9,456,Walk-In ,Follow-up,No,0,Attended
+A0209,P225,C05,2025-05-14,2025-05-18,37,M,3.9,457,App,Follow-up,Yes,0,Attended
+A0210,P257,C03,2025-02-13,2025-02-17,37,M,3.9,458,app,Consultation,No,1,No-Show
+A0211,P525,C01,2025-06-13,2025-06-19,37,M,3.9,459,PHONE,Consultation,Yes,0,Attended
+A0212,P207,C02,2025-02-25,2025-02-27,37,M,3.9,460,app,Follow-up,Yes,0,Attended
+A0213,P311,C02,2025-02-15,2025-02-17,37,F,4.0,461,Walk-In,Consultation,Yes,0,Attended
+A0214,P374,C02,2025-01-12,2025-01-18,37,M,4.0,462,Phone ,Follow-up,Yes,1,Attended
+A0215,P251,C02,2025-03-31,2025-04-04,37,M,4.0,463,App,Follow-up,No,1,Attended
+A0216,P653,C07,2025-06-21,2025-06-22,37,F,4.0,464, Phone,Consultation,Yes,0,Attended
+A0217,P229,C07,2025-02-04,2025-02-11,37,F,4.0,466,APP,Follow-up,Yes,1,Attended
+A0218,P369,C02,2025-05-18,2025-05-23,37,M,4.0,467,phone,Consultation,Yes,0,Attended
+A0219,P382,C07,2025-06-11,2025-06-12,37,M,4.1,468,Walk-In ,Follow-up,Yes,0,Attended
+A0220,P214,C02,2025-01-24,2025-01-25,37,F,4.1,469,App,Consultation,No,0,Attended
+A0221,P651,C06,2025-06-14,2025-06-15,38,M,4.1,470,Walk-in,Consultation,Yes,2,Attended
+A0222,P273,C03,2025-06-10,2025-06-13,38,F,4.1,471,App ,Consultation,Yes,0,Attended
+A0223,P163,C05,2025-04-04,2025-04-09,38,F,4.1,472,app,Consultation,Yes,0,Attended
+A0224,P147,C04,2025-02-08,2025-02-09,38,F,4.1,473,Phone ,Follow-up,Yes,1,Attended
+A0225,P202,C02,2025-01-02,2025-01-04,38,F,4.1,474, Walk-In,Consultation,Yes,1,No-Show
+A0226,P197,C06,2025-04-14,2025-04-19,38,M,4.2,476,phone,Consultation,No,1,Attended
+A0227,P227,C08,2025-02-21,2025-02-22,38,M,4.2,477,Phone,Follow-up,Yes,1,Attended
+A0228,P643,C03,2024-12-31,2025-01-01,38,M,4.2,478,App,Follow-up,No,0,Attended
+A0229,P121,C07,2025-05-14,2025-05-18,38,F,4.2,479,App ,Follow-up,Yes,0,Attended
+A0230,P338,C04,2025-02-06,2025-02-12,38,F,4.2,480,app,Consultation,Yes,2,Attended
+A0231,P716,C02,2025-04-10,2025-04-11,38,M,4.2,481, App,Consultation,Yes,0,Attended
+A0232,P232,C05,2025-04-03,2025-04-04,38,F,4.3,482,Phone,Consultation,Yes,1,Attended
+A0233,P454,C01,2025-05-04,2025-05-08,38,F,4.3,483,Phone,Consultation,No,1,Attended
+A0234,P003,C02,2025-04-09,2025-04-14,38,F,4.3,484,App,Consultation,No,1,No-Show
+A0235,P085,C04,2025-03-04,2025-03-05,38,F,4.3,486,APP,Follow-up,No,2,Attended
+A0236,P114,C02,2025-05-07,2025-05-09,38,M,4.3,487, App,Follow-up,Yes,0,Attended
+A0237,P175,C02,2025-05-07,2025-05-09,38,F,4.3,488,App,Consultation,No,1,Attended
+A0238,P624,C07,2025-05-02,2025-05-06,38,F,4.3,489,Walk-In ,Consultation,No,1,Attended
+A0239,P602,C02,2025-04-30,2025-05-06,38,M,4.4,490,Phone ,Consultation,No,1,No-Show
+A0240,P234,C04,2025-05-17,2025-05-20,38,F,4.4,491,phone,Follow-up,Yes,0,Attended
+A0241,P096,C01,2025-03-10,2025-03-16,38,M,4.4,492, Phone,Consultation,Yes,0,Attended
+A0242,P215,C06,2025-05-07,2025-05-08,38,F,4.4,493,App ,Consultation,Yes,0,Attended
+A0243,P530,C03,2025-02-22,2025-02-25,39,F,4.4,494,Phone ,Follow-up,Yes,0,Attended
+A0244,P736,C05,2025-06-06,2025-06-07,39,F,4.4,496,phone,Consultation,No,0,Attended
+A0245,P181,C01,2025-04-11,2025-04-17,39,F,4.5,497,App ,Consultation,No,1,Attended
+A0246,P212,C01,2025-02-20,2025-02-21,39,F,4.5,498, Phone,Follow-up,Yes,0,Attended
+A0247,P477,C01,2025-06-12,2025-06-14,39,M,4.5,499,Phone,Follow-up,No,0,Attended
+A0248,P306,C05,2025-05-06,2025-05-10,39,M,4.5,500,App,Consultation,Yes,2,Attended
+A0249,P168,C02,2025-05-13,2025-05-15,39,M,5.0,500,phone,Consultation,Yes,0,Attended
+A0250,P268,C02,2025-05-06,2025-05-12,39,F,5.0,500,phone,Consultation,Yes,1,Attended
+A0251,P702,C02,2025-04-13,2025-04-20,39,M,5.0,501,PHONE,Consultation,Yes,1,Attended
+A0252,P410,C01,2025-05-03,2025-05-05,39,M,5.0,501,App ,Follow-up,No,1,No-Show
+A0253,P055,C08,2025-02-03,2025-02-05,39,M,5.0,501,Phone ,Consultation,Yes,0,Attended
+A0254,P511,C03,2025-04-17,2025-04-18,39,M,5.0,502,App ,Consultation,No,2,Attended
+A0255,P096,C08,2025-06-05,2025-06-10,39,F,5.0,502,App,Consultation,No,1,No-Show
+A0256,P749,C01,2025-03-11,2025-03-12,39,F,5.0,502,Phone,Consultation,No,2,Attended
+A0257,P500,C02,2025-05-23,2025-05-24,39,M,5.0,503,WALK-IN,Follow-up,Yes,2,Attended
+A0258,P484,C02,2025-02-25,2025-02-28,39,F,5.0,503,Phone,Follow-up,Yes,0,Attended
+A0259,P629,C04,2025-06-22,2025-06-23,39,F,5.1,503,App,Consultation,No,0,Attended
+A0260,P441,C03,2025-04-30,2025-05-02,39,M,5.1,503,Phone,Consultation,Yes,1,Attended
+A0261,P179,C01,2025-03-09,2025-03-10,39,F,5.1,504,App,Consultation,No,1,Attended
+A0262,P320,C05,2025-03-10,2025-03-14,39,M,5.1,504,phone,Consultation,No,2,Attended
+A0263,P708,C08,2025-01-08,2025-01-14,39,M,5.1,504,Walk-In ,Consultation,No,1,No-Show
+A0264,P111,C01,2025-02-17,2025-02-24,39,M,5.1,505,Walk-In ,Consultation,No,0,Attended
+A0265,P385,C08,2025-05-22,2025-05-27,39,M,5.1,505,Phone ,Follow-up,No,0,Attended
+A0266,P110,C05,2025-04-09,2025-04-10,39,M,5.1,505,App,Follow-up,No,0,Attended
+A0267,P303,C06,2025-01-14,2025-01-15,40,F,5.1,506,Walk-In ,Consultation,No,2,Attended
+A0268,P025,C05,2025-03-23,2025-03-26,40,F,5.1,506,Phone ,Consultation,Yes,0,No-Show
+A0269,P380,C06,2025-06-11,2025-06-17,40,F,5.1,506,App ,Consultation,No,1,Attended
+A0270,P379,C06,2025-03-12,2025-03-13,40,F,5.1,507,App ,Consultation,Yes,0,Attended
+A0271,P020,C01,2025-06-15,2025-06-20,40,F,5.1,507,App,Follow-up,Yes,0,Attended
+A0272,P636,C01,2025-01-23,2025-01-27,40,M,5.2,507,PHONE,Consultation,No,0,Attended
+A0273,P731,C06,2025-06-10,2025-06-11,40,F,5.2,508,Phone ,Consultation,No,2,Attended
+A0274,P007,C05,2025-03-17,2025-03-22,40,F,5.2,508,app,Consultation,Yes,1,Attended
+A0275,P275,C05,2025-05-05,2025-05-12,40,M,5.2,508,WALK-IN,Consultation,No,1,Attended
+A0276,P012,C01,2025-06-04,2025-06-08,40,F,5.2,509, Phone,Consultation,Yes,0,No-Show
+A0277,P577,C04,2025-04-29,2025-05-05,40,F,5.2,509,App ,Follow-up,No,0,No-Show
+A0278,P076,C08,2025-03-23,2025-03-26,40,F,5.2,509,WALK-IN,Consultation,No,0,Attended
+A0279,P232,C06,2025-04-30,2025-05-03,40,F,5.2,509,PHONE,Consultation,No,0,Attended
+A0280,P720,C03,2025-06-13,2025-06-14,40,F,5.2,510,App ,Follow-up,No,0,Attended
+A0281,P682,C04,2025-02-03,2025-02-09,40,F,5.2,510, App,Follow-up,No,1,Attended
+A0282,P722,C02,2025-03-31,2025-04-05,40,M,5.2,510,App ,Consultation,Yes,0,Attended
+A0283,P182,C04,2025-03-02,2025-03-06,40,F,5.3,511,Phone,Consultation,No,2,No-Show
+A0284,P201,C03,2025-03-15,2025-03-19,40,F,5.3,511, App,Follow-up,Yes,0,Attended
+A0285,P337,C05,2025-04-24,2025-04-25,40,F,5.3,511,Phone,Consultation,No,0,Attended
+A0286,P549,C06,2024-12-31,2025-01-06,40,M,5.3,512,Phone ,Follow-up,Yes,0,Attended
+A0287,P354,C01,2025-05-19,2025-05-25,40,F,5.3,512,phone,Consultation,Yes,0,No-Show
+A0288,P186,C08,2025-06-08,2025-06-11,40,M,5.3,512,App,Consultation,No,0,Attended
+A0289,P715,C06,2025-03-15,2025-03-19,40,F,5.3,513,App ,Consultation,No,2,No-Show
+A0290,P009,C05,2025-06-04,2025-06-05,40,F,5.3,513, App,Follow-up,Yes,0,Attended
+A0291,P535,C08,2025-06-11,2025-06-12,40,F,5.3,513,Phone ,Follow-up,Yes,1,Attended
+A0292,P058,C08,2025-02-26,2025-03-01,40,F,5.3,514,Walk-In,Consultation,No,0,Attended
+A0293,P370,C02,2025-02-03,2025-02-06,40,M,5.4,514,app,Consultation,No,2,No-Show
+A0294,P287,C08,2025-02-02,2025-02-08,40,F,5.4,514, App,Follow-up,Yes,0,Attended
+A0295,P276,C01,2025-03-08,2025-03-12,40,F,5.4,515,phone,Follow-up,No,1,Attended
+A0296,P080,C07,2025-04-05,2025-04-06,40,M,5.4,515,App ,Consultation,Yes,0,Attended
+A0297,P678,C04,2025-04-24,2025-04-27,40,M,5.4,515, Phone,Consultation,Yes,0,Attended
+A0298,P240,C06,2025-06-01,2025-06-05,40,F,5.4,515,App ,Consultation,No,1,Attended
+A0299,P711,C02,2025-06-01,2025-06-04,40,M,5.4,516,App,Follow-up,Yes,0,Attended
+A0300,P529,C03,2025-06-06,2025-06-09,40,F,5.4,516,App ,Consultation,Yes,0,Attended
+A0301,P099,C06,2025-03-17,2025-03-20,40,M,5.4,516,Phone ,Consultation,No,1,Attended
+A0302,P295,C04,2025-01-27,2025-01-28,40,M,5.4,517,APP,Consultation,Yes,1,Attended
+A0303,P101,C04,2025-01-14,2025-01-15,41,M,5.5,517,APP,Follow-up,No,1,Attended
+A0304,P068,C02,2025-04-10,2025-04-17,41,F,5.5,517,APP,Consultation,Yes,1,Attended
+A0305,P710,C06,2025-02-26,2025-03-01,41,M,5.5,518, App,Consultation,No,0,No-Show
+A0306,P532,C03,2025-05-16,2025-05-19,41,F,5.5,518,App,Consultation,Yes,0,Attended
+A0307,P221,C02,2025-04-21,2025-04-28,41,F,5.5,518, Phone,Follow-up,Yes,0,Attended
+A0308,P334,C06,2025-05-18,2025-05-21,41,M,5.5,519,Phone ,Consultation,Yes,1,Attended
+A0309,P349,C04,2025-05-23,2025-05-24,41,F,5.5,519,phone,Consultation,Yes,1,Attended
+A0310,P070,C02,2025-06-03,2025-06-04,41,M,5.5,519,Phone ,Follow-up,Yes,2,Attended
+A0311,P038,C05,2025-03-21,2025-03-28,41,M,5.5,520,Walk-in,Consultation,Yes,0,Attended
+A0312,P024,C05,2025-02-09,2025-02-10,41,M,5.6,520,APP,Consultation,No,0,Attended
+A0313,P510,C06,2025-04-27,2025-04-28,41,F,5.6,520,app,Follow-up,Yes,1,Attended
+A0314,P436,C07,2025-05-05,2025-05-08,41,F,5.6,520,phone,Follow-up,Yes,0,Attended
+A0315,P122,C02,2025-05-15,2025-05-18,41,F,5.6,521,Phone ,Consultation,Yes,0,Attended
+A0316,P318,C04,2025-02-02,2025-02-03,41,M,5.6,521,app,Consultation,Yes,0,Attended
+A0317,P737,C06,2025-06-12,2025-06-13,41,F,5.6,521,Walk-In ,Follow-up,No,0,Attended
+A0318,P072,C06,2025-05-16,2025-05-17,41,F,5.6,522,App,Follow-up,Yes,0,Attended
+A0319,P239,C06,2025-02-18,2025-02-24,41,M,5.6,522,App ,Follow-up,Yes,0,Attended
+A0320,P187,C04,2025-03-09,2025-03-13,41,M,5.6,522,phone,Follow-up,No,1,Attended
+A0321,P172,C02,2025-05-21,2025-05-26,41,F,5.6,523,phone,Consultation,Yes,0,Attended
+A0322,P404,C04,2025-03-10,2025-03-11,41,F,5.7,523,PHONE,Follow-up,No,0,Attended
+A0323,P451,C05,2025-04-05,2025-04-08,41,F,5.7,523,phone,Consultation,Yes,0,Attended
+A0324,P601,C06,2025-04-13,2025-04-18,41,M,5.7,524,app,Consultation,Yes,0,Attended
+A0325,P588,C03,2025-04-04,2025-04-08,41,F,5.7,524, Walk-In,Follow-up,Yes,1,Attended
+A0326,P599,C06,2025-05-04,2025-05-05,41,F,5.7,524, App,Consultation,No,0,Attended
+A0327,P235,C06,2025-02-08,2025-02-09,41,F,5.7,525,app,Consultation,Yes,0,Attended
+A0328,P660,C02,2025-03-31,2025-04-04,41,F,5.7,525,Phone ,Follow-up,Yes,0,Attended
+A0329,P204,C01,2025-02-25,2025-02-28,41,F,5.7,525,app,Follow-up,Yes,2,Attended
+A0330,P145,C04,2025-05-13,2025-05-14,41,M,5.8,526,PHONE,Consultation,Yes,0,Attended
+A0331,P556,C03,2025-04-13,2025-04-15,41,F,5.8,526,Walk-in,Consultation,Yes,0,Attended
+A0332,P223,C07,2025-04-13,2025-04-14,41,F,5.8,526,walk-in,Consultation,Yes,1,Attended
+A0333,P278,C04,2025-02-04,2025-02-10,41,M,5.8,526,app,Consultation,No,2,No-Show
+A0334,P741,C01,2025-01-25,2025-01-28,41,M,5.8,527,Phone,Consultation,Yes,0,Attended
+A0335,P040,C04,2025-01-01,2025-01-04,41,F,5.8,527,APP,Consultation,Yes,0,Attended
+A0336,P266,C03,2025-06-06,2025-06-11,42,F,5.8,527,App ,Consultation,Yes,0,Attended
+A0337,P641,C06,2025-02-24,2025-02-26,42,M,5.8,528,PHONE,Follow-up,No,0,Attended
+A0338,P116,C06,2025-05-15,2025-05-22,42,M,5.8,528,app,Follow-up,Yes,0,Attended
+A0339,P126,C05,2025-02-01,2025-02-02,42,F,5.9,528,App ,Follow-up,Yes,1,Attended
+A0340,P681,C05,2025-03-22,2025-03-23,42,M,5.9,529,WALK-IN,Consultation,No,0,Attended
+A0341,P103,C02,2025-01-30,2025-02-02,42,F,5.9,529,Walk-in,Consultation,Yes,1,Attended
+A0342,P302,C02,2024-12-30,2025-01-01,42,M,5.9,529,App ,Follow-up,No,1,Attended
+A0343,P429,C06,2025-02-13,2025-02-16,42,F,5.9,530,PHONE,Consultation,Yes,0,Attended
+A0344,P576,C06,2025-03-16,2025-03-20,42,F,5.9,530,walk-in,Consultation,Yes,0,Attended
+A0345,P068,C06,2025-04-07,2025-04-13,42,M,5.9,530, App,Follow-up,No,1,No-Show
+A0346,P679,C06,2025-06-14,2025-06-15,42,M,5.9,531,phone,Consultation,No,2,Attended
+A0347,P461,C01,2025-02-11,2025-02-14,42,M,6.0,531,App,Follow-up,Yes,0,Attended
+A0348,P579,C02,2025-04-25,2025-04-28,42,F,6.0,531, App,Consultation,Yes,1,Attended
+A0349,P280,C02,2025-02-10,2025-02-11,42,M,6.0,532,phone,Follow-up,Yes,0,Attended
+A0350,P497,C01,2025-06-07,2025-06-08,42,M,6.0,532,Walk-In ,Consultation,Yes,0,Attended
+A0351,P638,C02,2025-03-07,2025-03-13,42,F,6.0,532,App,Follow-up,No,2,No-Show
+A0352,P547,C08,2025-03-28,2025-04-01,42,M,6.0,532, Phone,Consultation,Yes,1,Attended
+A0353,P148,C02,2025-02-12,2025-02-18,42,F,6.0,533,Phone ,Follow-up,No,1,No-Show
+A0354,P426,C03,2025-06-06,2025-06-09,42,M,6.0,533, Phone,Consultation,Yes,0,Attended
+A0355,P041,C03,2025-04-03,2025-04-09,42,F,6.1,533,phone,Consultation,Yes,0,Attended
+A0356,P203,C05,2025-03-11,2025-03-12,43,F,6.1,534,Phone ,Follow-up,Yes,2,Attended
+A0357,P151,C02,2025-03-05,2025-03-08,43,F,6.1,534,Walk-in,Follow-up,Yes,0,Attended
+A0358,P603,C05,2025-01-02,2025-01-03,43,M,6.1,534, Phone,Consultation,Yes,0,Attended
+A0359,P196,C04,2025-02-16,2025-02-21,43,F,6.1,535,Phone,Follow-up,No,0,Attended
+A0360,P363,C08,2025-04-12,2025-04-13,43,F,6.1,535,Phone ,Follow-up,No,0,Attended
+A0361,P326,C03,2024-12-27,2025-01-01,43,F,6.1,535,app,Consultation,Yes,0,Attended
+A0362,P001,C04,2025-06-22,2025-06-24,43,M,6.1,536, App,Consultation,Yes,0,Attended
+A0363,P213,C04,2025-02-01,2025-02-02,43,M,6.2,536,App ,Consultation,Yes,0,Attended
+A0364,P726,C05,2025-04-09,2025-04-15,43,M,6.2,536,Phone ,Follow-up,Yes,1,No-Show
+A0365,P088,C01,2025-05-31,2025-06-02,43,M,6.2,537,phone,Follow-up,No,2,Attended
+A0366,P421,C02,2025-02-02,2025-02-07,43,F,6.2,537,APP,Follow-up,Yes,0,Attended
+A0367,P005,C02,2025-04-10,2025-04-11,43,F,6.2,537,Walk-in,Follow-up,Yes,0,Attended
+A0368,P121,C02,2025-03-18,2025-03-22,43,F,6.2,538,WALK-IN,Consultation,No,1,No-Show
+A0369,P180,C01,2025-04-17,2025-04-18,43,M,6.2,538,App,Consultation,Yes,2,Attended
+A0370,P442,C04,2025-01-18,2025-01-22,43,M,6.2,538,Phone,Follow-up,No,0,Attended
+A0371,P705,C03,2025-03-21,2025-03-22,43,M,6.3,538, App,Follow-up,Yes,0,Attended
+A0372,P169,C02,2025-02-27,2025-03-05,43,F,6.3,539,Walk-in,Follow-up,Yes,0,Attended
+A0373,P090,C01,2025-04-06,2025-04-11,43,M,6.3,539,PHONE,Follow-up,Yes,1,Attended
+A0374,P138,C02,2025-04-19,2025-04-22,43,M,6.3,539,Phone ,Consultation,No,0,Attended
+A0375,P383,C03,2025-06-10,2025-06-17,43,F,6.3,540,Phone,Consultation,No,0,Attended
+A0376,P164,C02,2025-01-21,2025-01-23,44,M,6.3,540,APP,Follow-up,Yes,0,Attended
+A0377,P631,C02,2025-04-17,2025-04-18,44,M,6.3,540,Phone,Follow-up,Yes,0,Attended
+A0378,P162,C03,2025-05-27,2025-05-28,44,F,6.3,541,PHONE,Follow-up,No,0,Attended
+A0379,P131,C02,2025-03-08,2025-03-11,44,M,6.4,541,APP,Consultation,Yes,0,Attended
+A0380,P029,C02,2025-03-02,2025-03-05,44,F,6.4,541,App,Consultation,No,1,Attended
+A0381,P279,C04,2025-06-14,2025-06-17,44,M,6.4,542, Phone,Follow-up,No,1,Attended
+A0382,P077,C04,2025-04-19,2025-04-25,44,M,6.4,542, App,Consultation,No,2,Attended
+A0383,P438,C02,2025-05-05,2025-05-12,44,F,6.4,542,Phone,Consultation,Yes,0,Attended
+A0384,P139,C02,2025-06-02,2025-06-08,44,M,6.4,543,app,Follow-up,Yes,2,No-Show
+A0385,P204,C04,2025-02-08,2025-02-14,44,F,6.4,543,Walk-in,Follow-up,No,0,Attended
+A0386,P267,C03,2024-12-31,2025-01-04,44,M,6.4,543, App,Consultation,No,0,Attended
+A0387,P148,C04,2025-06-11,2025-06-17,44,M,6.5,544,app,Consultation,No,1,No-Show
+A0388,P084,C03,2025-01-15,2025-01-21,44,M,6.5,544,app,Follow-up,No,0,No-Show
+A0389,P312,C02,2025-05-17,2025-05-22,44,F,6.5,544,APP,Follow-up,Yes,0,Attended
+A0390,P594,C08,2025-01-29,2025-02-01,44,M,6.5,544,App ,Consultation,No,2,Attended
+A0391,P499,C01,2025-02-27,2025-03-11,44,F,6.5,545,App,Follow-up,Yes,1,Attended
+A0392,P079,C05,2025-05-14,2025-05-23,44,F,6.5,545,APP,Follow-up,No,0,Attended
+A0393,P343,C03,2025-03-23,2025-04-02,44,F,6.5,545,Walk-In ,Consultation,No,1,Attended
+A0394,P661,C02,2025-01-18,2025-01-26,44,F,6.6,546, Phone,Consultation,Yes,1,Attended
+A0395,P286,C05,2025-01-24,2025-02-05,44,M,6.6,546,Phone,Follow-up,Yes,0,Attended
+A0396,P332,C06,2025-06-16,2025-06-28,44,F,6.6,546,APP,Consultation,No,0,Attended
+A0397,P392,C02,2025-04-18,2025-04-26,44,M,6.6,547,APP,Follow-up,Yes,0,Attended
+A0398,P604,C05,2025-02-20,2025-03-03,44,F,6.6,547,PHONE,Consultation,Yes,0,Attended
+A0399,P518,C04,2025-03-29,2025-04-12,44,M,6.6,547,app,Consultation,Yes,1,No-Show
+A0400,P578,C06,2025-03-04,2025-03-12,44,F,6.6,548,APP,Consultation,Yes,0,Attended
+A0401,P619,C05,2025-05-04,2025-05-14,46,F,6.6,548,PHONE,Follow-up,Yes,0,Attended
+A0402,P005,C03,2025-02-08,2025-02-18,46,M,6.7,548,Phone ,Follow-up,No,2,Attended
+A0403,P263,C06,2025-02-19,2025-03-02,46,M,6.7,549,phone,Follow-up,Yes,1,No-Show
+A0404,P041,C01,2025-01-13,2025-01-23,46,M,6.7,549,App,Consultation,Yes,1,Attended
+A0405,P552,C07,2025-01-09,2025-01-18,46,F,6.7,549,App ,Consultation,Yes,0,Attended
+A0406,P141,C08,2025-06-11,2025-06-21,46,M,6.7,549,app,Follow-up,No,0,Attended
+A0407,P185,C01,2024-12-30,2025-01-07,46,M,6.7,550, App,Consultation,No,0,Attended
+A0408,P546,C03,2025-01-01,2025-01-09,46,M,6.7,550,PHONE,Consultation,Yes,0,Attended
+A0409,P589,C01,2025-05-29,2025-06-09,46,M,6.8,550,App ,Follow-up,No,1,Attended
+A0410,P355,C05,2025-03-31,2025-04-09,46,M,6.8,551,Phone,Consultation,No,0,Attended
+A0411,P567,C06,2025-04-14,2025-04-25,46,M,6.8,551,App,Consultation,No,0,Attended
+A0412,P177,C04,2025-02-18,2025-03-02,46,F,6.8,551, App,Consultation,Yes,0,Attended
+A0413,P387,C03,2024-12-21,2025-01-03,46,M,6.8,552,APP,Follow-up,No,0,Attended
+A0414,P398,C01,2025-04-05,2025-04-17,46,F,6.8,552,APP,Consultation,Yes,0,Attended
+A0415,P282,C01,2025-04-21,2025-05-04,46,M,6.8,552, App,Consultation,No,0,No-Show
+A0416,P081,C02,2025-01-13,2025-01-23,46,M,6.9,553,Phone,Consultation,No,1,Attended
+A0417,P128,C06,2025-05-26,2025-06-06,46,F,6.9,553, Phone,Consultation,Yes,1,Attended
+A0418,P166,C03,2025-03-26,2025-04-03,46,M,6.9,553,walk-in,Consultation,Yes,1,Attended
+A0419,P657,C01,2025-04-15,2025-04-26,46,F,6.9,554,Phone ,Consultation,Yes,0,Attended
+A0420,P162,C06,2025-06-11,2025-06-21,46,M,6.9,554, App,Consultation,No,0,Attended
+A0421,P190,C03,2025-04-08,2025-04-16,47,F,6.9,554,App,Consultation,No,0,Attended
+A0422,P062,C02,2025-03-27,2025-04-07,47,F,6.9,555,Phone ,Consultation,Yes,0,Attended
+A0423,P088,C05,2025-05-26,2025-06-07,47,F,6.9,555,Walk-In,Follow-up,Yes,0,Attended
+A0424,P001,C01,2025-04-14,2025-04-28,47,F,7.0,555,phone,Follow-up,No,2,No-Show
+A0425,P270,C04,2025-05-26,2025-06-04,47,F,7.0,555, App,Consultation,No,1,Attended
+A0426,P143,C03,2025-05-10,2025-05-21,47,M,7.0,556, App,Consultation,No,1,No-Show
+A0427,P401,C03,2025-02-18,2025-02-26,47,M,7.0,556,Phone ,Consultation,Yes,1,Attended
+A0428,P288,C02,2025-01-10,2025-01-21,47,M,7.0,556,walk-in,Follow-up,Yes,0,Attended
+A0429,P026,C07,2024-12-29,2025-01-12,47,F,7.0,557,phone,Follow-up,No,0,Attended
+A0430,P122,C03,2025-03-06,2025-03-18,47,F,7.0,557, Phone,Consultation,Yes,0,Attended
+A0431,P317,C08,2024-12-31,2025-01-11,47,M,7.1,557,Phone,Follow-up,Yes,1,Attended
+A0432,P526,C05,2025-01-24,2025-02-07,47,F,7.1,558,App ,Consultation,Yes,0,Attended
+A0433,P091,C05,2025-06-15,2025-06-23,47,M,7.1,558,PHONE,Follow-up,No,0,Attended
+A0434,P728,C07,2025-03-11,2025-03-21,47,F,7.1,558,Walk-In,Consultation,Yes,0,No-Show
+A0435,P182,C02,2025-01-13,2025-01-21,47,M,7.1,559,phone,Consultation,Yes,0,Attended
+A0436,P520,C08,2025-03-18,2025-03-26,47,F,7.1,559,App ,Follow-up,No,0,Attended
+A0437,P300,C01,2025-02-21,2025-03-01,47,M,7.1,559,PHONE,Follow-up,Yes,1,Attended
+A0438,P373,C04,2025-01-01,2025-01-15,47,F,7.2,560,APP,Consultation,Yes,1,Attended
+A0439,P173,C03,2025-04-21,2025-05-04,47,F,7.2,560, App,Follow-up,No,0,Attended
+A0440,P109,C07,2025-04-18,2025-04-27,47,F,7.2,560, Phone,Consultation,Yes,1,Attended
+A0441,P047,C04,2025-04-11,2025-04-19,47,M,7.2,561,Walk-in,Consultation,Yes,0,Attended
+A0442,P330,C01,2025-05-03,2025-05-16,47,M,7.2,561, Phone,Consultation,No,4,No-Show
+A0443,P135,C04,2024-12-26,2025-01-03,47,M,7.2,561,app,Consultation,Yes,0,Attended
+A0444,P593,C04,2024-12-23,2025-01-06,47,F,7.2,561,app,Consultation,No,2,No-Show
+A0445,P192,C07,2025-03-28,2025-04-10,47,M,7.3,562, App,Consultation,Yes,1,Attended
+A0446,P538,C05,2025-06-09,2025-06-22,47,M,7.3,562,App ,Consultation,No,1,No-Show
+A0447,P746,C02,2025-03-26,2025-04-03,47,M,7.3,562,App ,Follow-up,No,0,Attended
+A0448,P719,C05,2025-04-15,2025-04-28,47,F,7.3,563, App,Consultation,Yes,0,Attended
+A0449,P119,C03,2025-06-02,2025-06-12,47,M,7.3,563,App ,Consultation,No,1,Attended
+A0450,P184,C01,2025-06-09,2025-06-17,47,F,7.3,563, Phone,Consultation,No,2,Attended
+A0451,P747,C04,2025-05-03,2025-05-12,47,F,7.3,564, App,Consultation,Yes,0,Attended
+A0452,P686,C08,2025-06-09,2025-06-18,47,F,7.4,564,app,Consultation,Yes,0,Attended
+A0453,P405,C03,2025-04-10,2025-04-18,47,F,7.4,564,app,Consultation,No,0,Attended
+A0454,P480,C02,2025-02-10,2025-02-18,47,F,7.4,565, Walk-In,Consultation,Yes,0,Attended
+A0455,P697,C06,2025-01-09,2025-01-17,47,F,7.4,565,App ,Consultation,No,0,Attended
+A0456,P706,C04,2025-05-09,2025-05-19,,F,7.4,565,phone,Follow-up,No,0,Attended
+A0457,P409,C02,2025-04-15,2025-04-28,,M,7.4,566,App,Consultation,No,0,No-Show
+A0458,P340,C08,2025-02-06,2025-02-20,,F,7.4,566,Walk-In ,Consultation,Yes,0,Attended
+A0459,P583,C01,2025-02-17,2025-02-28,,M,7.5,566, App,Consultation,Yes,2,Attended
+A0460,P176,C03,2025-02-12,2025-02-20,,M,7.5,567,App ,Consultation,Yes,0,Attended
+A0461,P011,C01,2025-02-27,2025-03-13,,M,7.5,567,PHONE,Follow-up,Yes,0,Attended
+A0462,P172,C08,2025-04-14,2025-04-22,,M,7.5,567, Phone,Consultation,No,1,Attended
+A0463,P223,C04,2025-01-15,2025-01-25,,M,7.5,567,App,Follow-up,No,0,No-Show
+A0464,P505,C06,2025-03-13,2025-03-22,,M,7.5,568,Phone ,Follow-up,Yes,0,Attended
+A0465,P244,C08,2025-06-09,2025-06-17,,M,7.6,568,App,Consultation,No,0,Attended
+A0466,P298,C06,2025-01-03,2025-01-14,,M,7.6,568,APP,Follow-up,Yes,0,Attended
+A0467,P548,C07,2025-03-24,2025-04-04,,F,7.6,569, Phone,Follow-up,Yes,1,No-Show
+A0468,P016,C04,2025-02-13,2025-02-21,250,F,7.6,569,Phone,Consultation,Yes,0,Attended
+A0469,P258,C06,2025-02-03,2025-02-16,150,F,7.6,569,app,Consultation,Yes,0,Attended
+A0470,P584,C08,2025-06-11,2025-06-19,120,F,7.6,570, Walk-In,Consultation,Yes,0,Attended
+A0471,P482,C04,2025-01-22,2025-02-02,-5,M,7.6,570, Phone,Consultation,No,0,Attended
+A0472,P377,C04,2025-03-26,2025-04-07,0,M,7.7,570,Phone ,Follow-up,Yes,1,No-Show
+A0473,P087,C03,2025-05-13,2025-05-24,48,M,7.7,571,PHONE,Consultation,No,2,Attended
+A0474,P627,C02,2025-02-15,2025-02-23,48,M,7.7,571,phone,Follow-up,Yes,0,Attended
+A0475,P075,C06,2025-05-26,2025-06-07,48,F,7.7,571, App,Consultation,Yes,3,No-Show
+A0476,P090,C07,2024-12-28,2025-01-09,48,M,7.7,572,App ,Consultation,No,0,No-Show
+A0477,P026,C06,2025-05-25,2025-06-05,48,M,7.7,572,App,Consultation,No,1,Attended
+A0478,P712,C03,2024-12-29,2025-01-07,48,M,7.7,572,Walk-In,Follow-up,No,0,Attended
+A0479,P154,C02,2025-05-02,2025-05-16,48,F,7.8,573,Phone ,Consultation,No,0,No-Show
+A0480,P160,C05,2025-03-02,2025-03-16,48,M,7.8,573,App ,Consultation,No,2,No-Show
+A0481,P596,C04,2025-04-05,2025-04-15,48,M,7.8,573,walk-in,Follow-up,No,1,Attended
+A0482,P425,C03,2025-02-20,2025-03-01,48,F,7.8,573,Walk-In ,Consultation,No,0,Attended
+A0483,P515,C04,2025-02-27,2025-03-08,48,F,7.8,574,Phone,Consultation,No,0,Attended
+A0484,P315,C01,2025-03-27,2025-04-10,48,F,7.8,574,App,Consultation,Yes,0,Attended
+A0485,P080,C04,2025-06-02,2025-06-15,48,F,8.0,574,App ,Consultation,Yes,1,No-Show
+A0486,P304,C02,2025-03-01,2025-03-14,48,F,,575, App,Follow-up,Yes,0,Attended
+A0487,P168,C02,2025-04-05,2025-04-15,48,M,,575,App ,Consultation,Yes,0,Attended
+A0488,P687,C05,2025-04-20,2025-04-28,48,M,,575,PHONE,Consultation,Yes,2,Attended
+A0489,P693,C03,2025-05-19,2025-05-28,48,F,,576,PHONE,Consultation,No,1,Attended
+A0490,P564,C07,2025-04-06,2025-04-20,48,F,,576,PHONE,Follow-up,No,0,Attended
+A0491,P052,C08,2025-01-11,2025-01-24,48,F,,576,WALK-IN,Consultation,No,0,No-Show
+A0492,P009,C04,2025-06-15,2025-06-27,48,F,,577, App,Follow-up,No,0,Attended
+A0493,P565,C04,2025-04-01,2025-04-14,48,M,,577,App ,Consultation,Yes,1,Attended
+A0494,P045,C01,2025-01-09,2025-01-18,48,F,,577,App ,Consultation,Yes,0,Attended
+A0495,P703,C04,2025-05-31,2025-06-09,48,M,,578,App ,Consultation,Yes,2,Attended
+A0496,P592,C01,2025-01-30,2025-02-12,48,F,,578,walk-in,Consultation,Yes,0,Attended
+A0497,P042,C05,2025-06-10,2025-06-18,48,F,,578,phone,Follow-up,Yes,0,Attended
+A0498,P586,C05,2025-01-01,2025-01-12,48,F,,579,Walk-In,Consultation,No,2,No-Show
+A0499,P327,C07,2025-06-07,2025-06-16,48,F,,580, App,Follow-up,No,1,Attended
+A0500,P095,C02,2025-02-02,2025-02-14,48,F,,580,walk-in,Consultation,No,1,Attended
+A0501,P120,C06,2025-04-19,2025-05-02,48,F,,581,phone,Consultation,No,0,No-Show
+A0502,P067,C03,2025-02-27,2025-03-12,48,M,,582, App,Follow-up,No,4,No-Show
+A0503,P105,C08,2025-05-02,2025-05-10,48,M,,582,Phone,Follow-up,No,2,Attended
+A0504,P169,C02,2025-03-01,2025-03-11,48,F,,583, Phone,Consultation,No,0,No-Show
+A0505,P044,C07,2025-03-14,2025-03-26,48,M,,584, Phone,Consultation,No,1,No-Show
+A0506,P342,C03,2025-01-27,2025-02-04,50,F,8.5,585,App ,Consultation,No,1,Attended
+A0507,P053,C03,2025-05-09,2025-05-21,50,F,8.6,585,App,Follow-up,Yes,0,Attended
+A0508,P464,C08,2025-05-31,2025-06-09,50,M,8.6,586,Walk-In ,Follow-up,Yes,1,Attended
+A0509,P233,C07,2025-02-23,2025-03-06,50,F,8.6,587,Walk-In ,Consultation,No,1,No-Show
+A0510,P211,C08,2025-01-31,2025-02-11,50,F,8.6,587,App,Consultation,Yes,1,Attended
+A0511,P100,C02,2024-12-26,2025-01-06,50,M,8.6,588,PHONE,Consultation,Yes,1,No-Show
+A0512,P158,C03,2025-05-29,2025-06-12,50,M,8.6,589,App,Consultation,Yes,2,Attended
+A0513,P043,C03,2025-05-19,2025-05-28,50,F,8.7,589,PHONE,Consultation,Yes,0,Attended
+A0514,P208,C08,2025-02-12,2025-02-25,50,F,8.7,590,app,Follow-up,No,1,Attended
+A0515,P333,C03,2024-12-21,2025-01-02,50,F,8.7,591,app,Follow-up,No,2,No-Show
+A0516,P324,C05,2024-12-25,2025-01-04,50,M,8.7,592,App,Consultation,Yes,0,Attended
+A0517,P205,C04,2025-03-29,2025-04-10,50,M,8.7,592,App ,Consultation,No,0,Attended
+A0518,P134,C04,2025-01-12,2025-01-25,50,M,8.7,593,Phone ,Consultation,Yes,0,Attended
+A0519,P308,C07,2025-04-13,2025-04-23,50,M,8.7,594,WALK-IN,Consultation,Yes,1,Attended
+A0520,P243,C02,2025-05-14,2025-05-27,50,F,8.7,594,App,Follow-up,Yes,0,Attended
+A0521,P124,C03,2025-04-03,2025-04-14,50,M,8.8,595,phone,Consultation,No,1,No-Show
+A0522,P205,C02,2025-05-03,2025-05-14,50,M,8.8,596,app,Follow-up,No,0,Attended
+A0523,P507,C04,2025-02-04,2025-02-13,50,M,8.8,596,app,Consultation,No,0,Attended
+A0524,P513,C01,2025-05-17,2025-05-27,50,M,8.8,597,APP,Consultation,No,2,No-Show
+A0525,P517,C02,2025-03-06,2025-03-14,50,M,8.8,598,APP,Consultation,No,1,Attended
+A0526,P034,C03,2025-06-11,2025-06-21,50,M,8.8,599, App,Follow-up,Yes,1,No-Show
+A0527,P256,C02,2025-06-01,2025-06-11,50,F,8.8,599,Phone,Consultation,Yes,0,Attended
+A0528,P231,C03,2025-06-13,2025-06-21,50,M,8.9,600,APP,Consultation,Yes,2,Attended
+A0529,P573,C03,2025-03-12,2025-03-25,50,M,8.9,601, App,Consultation,No,0,Attended
+A0530,P550,C06,2025-03-30,2025-04-09,50,M,8.9,601,PHONE,Consultation,No,0,Attended
+A0531,P595,C06,2025-05-30,2025-06-10,50,F,8.9,602,APP,Follow-up,Yes,0,Attended
+A0532,P112,C06,2025-04-30,2025-05-08,50,F,8.9,603,App,Follow-up,Yes,0,Attended
+A0533,P652,C04,2025-04-18,2025-05-02,50,M,8.9,603,app,Consultation,No,0,Attended
+A0534,P406,C03,2025-05-03,2025-05-11,50,F,8.9,604,Walk-In ,Follow-up,No,0,Attended
+A0535,P414,C02,2025-01-15,2025-01-27,51,F,9.0,605,Walk-in,Consultation,No,1,Attended
+A0536,P086,C04,2025-04-10,2025-04-19,51,F,9.0,606, App,Consultation,No,0,Attended
+A0537,P210,C05,2025-06-15,2025-06-25,51,F,9.0,606,app,Consultation,No,0,No-Show
+A0538,P580,C06,2025-01-10,2025-01-23,51,F,9.0,607, Phone,Consultation,No,0,Attended
+A0539,P012,C01,2025-03-04,2025-03-18,51,F,9.0,608,APP,Consultation,No,1,No-Show
+A0540,P620,C08,2025-01-11,2025-01-25,51,F,9.0,608,phone,Consultation,Yes,0,Attended
+A0541,P501,C05,2025-06-05,2025-06-13,51,F,9.0,609,PHONE,Follow-up,No,1,Attended
+A0542,P672,C01,2025-02-24,2025-03-06,51,F,9.1,610,phone,Follow-up,No,1,No-Show
+A0543,P140,C02,2025-01-05,2025-01-16,51,F,9.1,610,PHONE,Consultation,Yes,1,No-Show
+A0544,P483,C03,2025-03-20,2025-03-28,51,F,9.1,611,app,Consultation,Yes,0,Attended
+A0545,P381,C05,2025-01-29,2025-02-07,51,F,9.1,612,PHONE,Follow-up,Yes,0,Attended
+A0546,P198,C01,2025-05-05,2025-05-13,51,M,9.1,613,APP,Consultation,Yes,1,Attended
+A0547,P285,C06,2025-05-28,2025-06-05,51,F,9.1,613,WALK-IN,Follow-up,No,0,Attended
+A0548,P574,C02,2025-01-20,2025-02-02,51,M,9.2,614,PHONE,Consultation,Yes,0,Attended
+A0549,P161,C04,2025-04-25,2025-05-04,51,F,9.2,615,App,Consultation,No,1,Attended
+A0550,P127,C01,2025-04-10,2025-04-19,51,F,9.2,615,app,Follow-up,Yes,0,Attended
+A0551,P165,C02,2024-12-29,2025-01-11,51,F,9.2,616,Walk-in,Consultation,Yes,1,Attended
+A0552,P242,C06,2025-02-07,2025-02-15,51,F,9.2,617,Walk-In,Follow-up,Yes,1,Attended
+A0553,P440,C03,2025-05-09,2025-05-21,51,M,9.2,618, Phone,Consultation,Yes,1,Attended
+A0554,P049,C08,2025-05-24,2025-06-03,51,F,9.2,618,Phone,Consultation,No,0,Attended
+A0555,P224,C05,2025-03-25,2025-04-02,51,M,9.3,619,PHONE,Follow-up,No,1,Attended
+A0556,P238,C06,2025-02-04,2025-02-16,51,F,9.3,620,Walk-In,Consultation,No,1,Attended
+A0557,P181,C03,2025-06-08,2025-06-22,51,M,9.3,620,Phone ,Consultation,Yes,0,No-Show
+A0558,P309,C07,2024-12-19,2025-01-02,51,M,9.3,621,Walk-in,Consultation,No,0,No-Show
+A0559,P255,C06,2025-05-12,2025-05-23,51,M,9.3,622,APP,Consultation,Yes,1,Attended
+A0560,P265,C02,2025-01-07,2025-01-20,51,M,9.3,622, App,Follow-up,No,1,No-Show
+A0561,P082,C01,2025-01-24,2025-02-05,51,F,9.4,623, App,Consultation,Yes,3,No-Show
+A0562,P032,C02,2025-03-25,2025-04-08,51,F,9.4,624,phone,Follow-up,No,0,Attended
+A0563,P062,C02,2025-02-24,2025-03-05,51,M,9.4,625,App,Consultation,Yes,0,Attended
+A0564,P144,C01,2025-03-02,2025-03-13,51,F,9.4,625, App,Consultation,No,0,Attended
+A0565,P537,C02,2025-01-24,2025-02-02,51,M,9.4,626,APP,Consultation,Yes,0,Attended
+A0566,P048,C02,2025-05-22,2025-06-01,51,M,9.4,627,Phone,Consultation,No,1,Attended
+A0567,P563,C07,2025-03-08,2025-03-19,51,F,9.5,627, App,Consultation,No,0,Attended
+A0568,P247,C02,2025-04-03,2025-04-16,51,F,9.5,628,Phone ,Follow-up,Yes,0,Attended
+A0569,P742,C01,2024-12-30,2025-01-07,51,F,9.5,629, App,Consultation,Yes,0,Attended
+A0570,P094,C03,2025-02-23,2025-03-07,52,F,9.5,629,Phone,Follow-up,Yes,0,Attended
+A0571,P493,C04,2025-02-12,2025-02-25,52,M,9.5,630,Walk-In,Consultation,No,1,Attended
+A0572,P293,C08,2025-06-13,2025-06-23,52,F,9.5,631,phone,Follow-up,Yes,0,Attended
+A0573,P489,C04,2025-04-21,2025-05-02,52,F,9.6,632,App,Consultation,Yes,0,Attended
+A0574,P696,C03,2025-02-02,2025-02-14,52,M,9.6,632,Phone ,Follow-up,Yes,1,Attended
+A0575,P159,C03,2025-03-07,2025-03-15,52,F,9.6,633,app,Consultation,No,0,No-Show
+A0576,P729,C08,2025-02-28,2025-03-13,52,F,9.6,634,Phone,Consultation,No,1,Attended
+A0577,P132,C07,2025-01-09,2025-01-22,52,M,9.6,634,app,Consultation,Yes,0,Attended
+A0578,P229,C01,2025-02-27,2025-03-11,52,M,9.6,635,App ,Follow-up,No,1,Attended
+A0579,P271,C04,2025-03-30,2025-04-09,52,M,9.7,636,App,Consultation,Yes,2,Attended
+A0580,P366,C07,2025-02-14,2025-02-25,52,F,9.7,636, Phone,Consultation,Yes,0,Attended
+A0581,P209,C06,2025-04-24,2025-05-04,52,F,9.7,637,APP,Consultation,Yes,0,Attended
+A0582,P466,C01,2025-01-10,2025-01-18,52,F,9.7,638,APP,Consultation,No,0,Attended
+A0583,P623,C03,2025-02-19,2025-02-28,52,M,9.7,639,App,Consultation,Yes,0,Attended
+A0584,P335,C04,2025-04-06,2025-04-18,52,F,9.8,639,Walk-in,Consultation,No,2,No-Show
+A0585,P138,C06,2024-12-24,2025-01-07,52,F,9.8,640,App,Follow-up,Yes,1,Attended
+A0586,P218,C05,2025-05-26,2025-06-06,52,F,9.8,641,Phone,Consultation,No,0,Attended
+A0587,P253,C02,2025-05-15,2025-05-23,52,M,9.8,641,App,Consultation,No,0,Attended
+A0588,P228,C01,2025-06-09,2025-06-21,52,M,9.8,642,App,Follow-up,Yes,0,Attended
+A0589,P035,C01,2024-12-29,2025-01-11,52,M,9.8,643,Phone ,Follow-up,No,1,No-Show
+A0590,P316,C06,2024-12-24,2025-01-05,52,F,9.9,643,APP,Consultation,Yes,1,Attended
+A0591,P640,C07,2025-06-10,2025-06-24,52,M,9.9,644,APP,Consultation,Yes,2,No-Show
+A0592,P522,C04,2025-05-08,2025-05-17,52,F,9.9,645,WALK-IN,Consultation,Yes,1,Attended
+A0593,P137,C03,2025-02-02,2025-02-11,52,M,9.9,646,App,Consultation,No,2,Attended
+A0594,P240,C03,2025-02-19,2025-03-04,52,F,9.9,646,App,Follow-up,Yes,0,Attended
+A0595,P127,C06,2025-03-10,2025-03-21,52,M,9.9,647, Phone,Consultation,Yes,2,Attended
+A0596,P600,C06,2025-02-15,2025-02-25,52,F,10.0,648, App,Follow-up,No,0,Attended
+A0597,P393,C08,2025-01-05,2025-01-14,52,M,10.0,648,app,Follow-up,Yes,0,Attended
+A0598,P141,C02,2025-02-22,2025-03-04,52,F,10.0,649,phone,Consultation,Yes,0,Attended
+A0599,P125,C01,2024-12-31,2025-01-14,52,F,10.0,650, App,Consultation,Yes,0,Attended
+A0600,P099,C05,2025-06-17,2025-06-26,52,F,10.0,650,app,Consultation,No,0,Attended
+A0601,P422,C02,2025-05-11,2025-05-19,52,F,10.1,651, Phone,Consultation,No,0,Attended
+A0602,P226,C04,2025-03-05,2025-03-14,52,F,10.1,652, App,Consultation,Yes,0,Attended
+A0603,P434,C06,2025-04-02,2025-04-11,52,M,10.1,653,Walk-in,Follow-up,Yes,2,Attended
+A0604,P699,C04,2025-06-05,2025-06-13,53,F,10.1,653,App ,Follow-up,No,0,Attended
+A0605,P353,C06,2025-02-19,2025-03-03,53,M,10.1,654,WALK-IN,Consultation,No,1,Attended
+A0606,P555,C06,2025-01-10,2025-01-20,53,F,10.2,655,APP,Consultation,No,0,Attended
+A0607,P502,C04,2025-05-09,2025-05-19,53,M,10.2,655,Phone ,Consultation,No,0,Attended
+A0608,P140,C02,2025-01-23,2025-02-06,53,M,10.2,656,WALK-IN,Consultation,No,1,No-Show
+A0609,P144,C04,2024-12-24,2025-01-02,53,M,10.2,657,phone,Consultation,Yes,0,Attended
+A0610,P463,C06,2025-01-19,2025-01-27,53,M,10.2,657, App,Consultation,No,0,Attended
+A0611,P117,C01,2025-04-20,2025-05-01,53,F,10.2,658,App,Consultation,Yes,0,Attended
+A0612,P662,C03,2025-03-01,2025-03-11,53,M,10.3,659, Walk-In,Follow-up,Yes,0,Attended
+A0613,P418,C03,2025-01-05,2025-01-13,53,F,10.3,660,phone,Consultation,Yes,1,Attended
+A0614,P007,C04,2025-04-05,2025-04-16,53,F,10.3,660,APP,Consultation,Yes,0,Attended
+A0615,P570,C04,2025-05-18,2025-05-27,53,M,10.3,661,PHONE,Consultation,Yes,0,Attended
+A0616,P473,C07,2024-12-27,2025-01-04,53,F,10.3,662,phone,Follow-up,Yes,1,Attended
+A0617,P504,C04,2024-12-22,2025-01-02,53,M,10.4,662, App,Consultation,Yes,1,Attended
+A0618,P368,C04,2025-06-06,2025-06-14,53,F,10.4,663,App,Follow-up,Yes,0,Attended
+A0619,P655,C08,2025-06-14,2025-06-22,53,F,10.4,664,App,Consultation,Yes,0,Attended
+A0620,P561,C05,2025-01-13,2025-01-25,53,M,10.4,664,App ,Consultation,Yes,0,Attended
+A0621,P076,C02,2025-04-30,2025-05-10,53,M,10.4,665,Phone ,Consultation,Yes,0,Attended
+A0622,P178,C02,2025-06-13,2025-06-22,53,F,10.5,666, Phone,Consultation,Yes,0,Attended
+A0623,P378,C01,2025-01-17,2025-01-25,53,F,10.5,667,APP,Consultation,Yes,0,Attended
+A0624,P707,C02,2025-01-14,2025-01-23,53,M,10.5,667,Phone,Consultation,Yes,0,Attended
+A0625,P424,C08,2025-06-04,2025-06-13,53,F,10.5,668,phone,Consultation,Yes,0,Attended
+A0626,P585,C04,2025-01-27,2025-02-04,53,F,10.5,669, App,Consultation,No,0,Attended
+A0627,P351,C01,2025-06-20,2025-06-28,53,M,10.6,669, Phone,Follow-up,Yes,0,Attended
+A0628,P015,C08,2025-03-28,2025-04-06,53,F,10.6,670,APP,Consultation,Yes,0,Attended
+A0629,P216,C03,2025-05-17,2025-05-27,53,F,10.6,671,PHONE,Consultation,Yes,0,Attended
+A0630,P195,C01,2025-03-26,2025-04-05,53,M,10.6,671,App ,Follow-up,No,2,Attended
+A0631,P261,C06,2025-02-14,2025-02-25,53,F,10.6,672, App,Follow-up,Yes,0,Attended
+A0632,P015,C06,2024-12-24,2025-01-05,53,F,10.7,673,Walk-In ,Consultation,Yes,2,Attended
+A0633,P277,C06,2025-04-21,2025-05-02,53,M,10.7,674, Phone,Consultation,Yes,0,Attended
+A0634,P346,C06,2025-04-23,2025-05-06,53,F,10.7,674,App,Follow-up,Yes,0,Attended
+A0635,P075,C07,2025-05-05,2025-05-17,53,F,10.7,675,app,Consultation,No,0,No-Show
+A0636,P107,C01,2025-06-16,2025-06-25,54,M,10.7,676,App ,Consultation,No,0,Attended
+A0637,P114,C02,2025-02-03,2025-02-14,54,F,10.8,676,app,Consultation,No,0,Attended
+A0638,P136,C08,2025-01-16,2025-01-26,54,F,10.8,677,App ,Consultation,Yes,0,Attended
+A0639,P230,C04,2024-12-24,2025-01-01,54,F,10.8,678, Walk-In,Consultation,No,0,Attended
+A0640,P086,C03,2025-03-04,2025-03-13,54,M,10.8,678, App,Consultation,Yes,0,Attended
+A0641,P361,C05,2025-02-26,2025-03-12,54,F,10.8,679,Phone ,Consultation,Yes,0,Attended
+A0642,P150,C01,2025-02-24,2025-03-04,54,F,10.9,680,Walk-In ,Follow-up,No,0,Attended
+A0643,P357,C02,2025-05-25,2025-06-03,54,F,10.9,681, App,Consultation,No,0,Attended
+A0644,P575,C05,2025-03-22,2025-04-03,54,F,10.9,681,Phone,Consultation,No,0,Attended
+A0645,P447,C06,2025-04-29,2025-05-07,54,F,10.9,682,Phone ,Follow-up,Yes,1,Attended
+A0646,P450,C01,2024-12-27,2025-01-04,54,F,10.9,683,App,Consultation,Yes,0,Attended
+A0647,P073,C03,2025-05-02,2025-05-11,54,F,11.0,683,Walk-In ,Consultation,Yes,0,Attended
+A0648,P713,C02,2025-03-31,2025-04-12,54,M,11.0,684,WALK-IN,Follow-up,Yes,0,Attended
+A0649,P560,C05,2025-02-27,2025-03-08,54,F,11.0,685, Walk-In,Consultation,Yes,2,No-Show
+A0650,P206,C04,2025-01-18,2025-01-27,54,F,11.0,686,App ,Follow-up,Yes,1,Attended
+A0651,P654,C04,2025-02-20,2025-02-28,54,F,11.0,686,Phone,Consultation,Yes,1,Attended
+A0652,P177,C04,2025-04-06,2025-04-20,54,F,11.1,687, App,Follow-up,Yes,0,Attended
+A0653,P199,C08,2025-01-30,2025-02-10,54,F,11.1,688, Walk-In,Consultation,Yes,1,Attended
+A0654,P136,C02,2025-01-06,2025-01-14,54,F,11.1,688, Walk-In,Follow-up,Yes,1,Attended
+A0655,P748,C02,2025-03-31,2025-04-12,54,M,11.1,689,APP,Consultation,Yes,0,Attended
+A0656,P676,C04,2025-04-30,2025-05-09,54,F,11.1,690, App,Consultation,Yes,0,Attended
+A0657,P023,C02,2025-04-07,2025-04-19,54,F,11.2,690,Walk-in,Consultation,No,0,Attended
+A0658,P628,C06,2025-04-21,2025-05-01,54,F,11.2,691, App,Follow-up,Yes,1,Attended
+A0659,P558,C05,2025-02-23,2025-03-07,54,F,11.2,692,Walk-In ,Follow-up,No,0,Attended
+A0660,P296,C01,2025-05-31,2025-06-10,54,F,11.2,693,APP,Consultation,No,0,Attended
+A0661,P161,C04,2025-01-24,2025-02-01,54,M,11.2,693, Phone,Consultation,Yes,0,Attended
+A0662,P187,C08,2025-05-17,2025-05-27,54,M,11.3,694,phone,Follow-up,No,1,Attended
+A0663,P203,C05,2025-05-30,2025-06-10,54,F,11.3,695,App ,Consultation,Yes,0,Attended
+A0664,P201,C08,2025-03-29,2025-04-06,54,M,11.3,695,phone,Consultation,Yes,1,Attended
+A0665,P352,C07,2025-01-04,2025-01-14,54,M,11.3,696,App ,Consultation,Yes,1,Attended
+A0666,P690,C06,2025-01-19,2025-01-27,54,M,11.3,697, App,Consultation,Yes,0,Attended
+A0667,P008,C03,2025-03-11,2025-03-22,54,F,11.4,697, App,Consultation,No,2,No-Show
+A0668,P071,C02,2024-12-28,2025-01-05,54,M,11.4,698,walk-in,Consultation,Yes,1,Attended
+A0669,P677,C06,2025-05-15,2025-05-24,54,F,11.4,699,PHONE,Consultation,Yes,0,Attended
+A0670,P164,C08,2025-03-09,2025-03-17,54,F,11.4,700,Phone ,Consultation,Yes,1,Attended
+A0671,P698,C06,2025-02-17,2025-02-27,54,M,11.4,700,App ,Follow-up,No,0,No-Show
+A0672,P171,C02,2025-03-13,2025-03-23,54,M,11.5,701,PHONE,Consultation,No,2,Attended
+A0673,P031,C06,2025-05-12,2025-05-20,54,M,11.5,702,Phone ,Follow-up,No,0,Attended
+A0674,P610,C02,2025-04-05,2025-04-13,54,M,11.5,702,Phone ,Consultation,Yes,0,Attended
+A0675,P156,C08,2025-03-06,2025-03-20,54,F,11.5,703,phone,Follow-up,Yes,0,Attended
+A0676,P021,C04,2025-05-05,2025-05-19,54,M,11.6,704,App,Consultation,No,1,Attended
+A0677,P581,C04,2025-01-05,2025-01-18,54,M,11.6,704,App,Consultation,Yes,0,Attended
+A0678,P219,C02,2025-02-16,2025-02-28,54,M,11.6,705,app,Consultation,No,0,No-Show
+A0679,P388,C05,2025-02-02,2025-02-13,54,F,11.6,706,walk-in,Consultation,Yes,0,Attended
+A0680,P061,C04,2025-05-17,2025-05-25,54,M,11.6,707,App,Consultation,Yes,0,Attended
+A0681,P030,C04,2025-03-23,2025-04-06,55,F,11.7,707, App,Consultation,No,0,Attended
+A0682,P156,C02,2025-01-15,2025-01-26,55,F,11.7,708, App,Consultation,Yes,0,Attended
+A0683,P650,C05,2025-05-15,2025-05-28,55,M,11.7,709,Phone,Follow-up,No,3,No-Show
+A0684,P408,C04,2025-03-06,2025-03-14,55,M,11.7,709, App,Consultation,No,1,Attended
+A0685,P437,C04,2025-01-26,2025-02-04,55,F,11.7,710, App,Consultation,No,1,Attended
+A0686,P069,C03,2025-03-31,2025-04-08,55,F,11.8,711, App,Consultation,No,0,Attended
+A0687,P036,C01,2025-01-21,2025-02-03,55,F,11.8,711,Phone,Consultation,No,3,No-Show
+A0688,P142,C06,2025-06-08,2025-06-16,55,M,11.8,712,app,Follow-up,No,0,Attended
+A0689,P092,C04,2025-02-08,2025-02-16,55,F,11.8,713,Walk-in,Follow-up,Yes,0,Attended
+A0690,P167,C07,2025-03-25,2025-04-06,55,F,11.8,714,App,Consultation,Yes,0,No-Show
+A0691,P468,C04,2025-05-26,2025-06-05,55,F,11.9,714,App ,Follow-up,No,0,Attended
+A0692,P534,C08,2025-02-19,2025-02-27,55,F,11.9,715,App,Follow-up,No,3,No-Show
+A0693,P218,C02,2025-03-10,2025-03-23,55,F,11.9,716,phone,Consultation,No,1,No-Show
+A0694,P479,C08,2025-05-07,2025-05-19,55,F,11.9,716,App,Follow-up,Yes,0,Attended
+A0695,P250,C03,2025-04-28,2025-05-23,55,F,12.0,717,App,Follow-up,No,2,No-Show
+A0696,P046,C01,2025-01-18,2025-02-02,55,F,12.0,718,APP,Consultation,Yes,0,Attended
+A0697,P659,C02,2025-03-05,2025-03-20,55,M,12.0,718,PHONE,Consultation,Yes,0,Attended
+A0698,P348,C03,2025-05-09,2025-05-27,55,M,12.0,719,PHONE,Consultation,Yes,0,Attended
+A0699,P723,C01,2025-01-09,2025-02-03,55,F,12.0,720,APP,Follow-up,Yes,1,Attended
+A0700,P452,C06,2025-05-17,2025-06-13,55,M,12.1,721,app,Consultation,Yes,0,Attended
+A0701,P167,C04,2025-05-21,2025-06-12,55,M,12.1,721,app,Follow-up,No,1,Attended
+A0702,P217,C02,2025-04-01,2025-04-18,55,M,12.1,722,App ,Consultation,Yes,0,Attended
+A0703,P536,C05,2025-01-30,2025-02-25,55,F,12.1,723, App,Consultation,Yes,0,Attended
+A0704,P252,C03,2025-04-17,2025-05-09,55,F,12.2,723,APP,Consultation,No,0,Attended
+A0705,P680,C06,2025-04-22,2025-05-13,56,F,12.2,724,APP,Consultation,No,0,Attended
+A0706,P572,C01,2025-01-31,2025-02-26,56,F,12.2,725,phone,Consultation,Yes,0,Attended
+A0707,P087,C03,2025-01-31,2025-02-28,56,F,12.2,725,app,Consultation,Yes,0,No-Show
+A0708,P664,C07,2025-01-25,2025-02-23,56,F,12.2,726, App,Follow-up,Yes,2,Attended
+A0709,P110,C06,2025-03-22,2025-04-21,56,F,12.3,727, Phone,Consultation,No,0,Attended
+A0710,P649,C05,2025-03-28,2025-04-13,56,M,12.3,728, App,Consultation,Yes,0,Attended
+A0711,P527,C01,2025-04-27,2025-05-14,56,M,12.3,728,App,Consultation,No,0,Attended
+A0712,P732,C06,2025-03-11,2025-04-03,56,M,12.3,729,APP,Follow-up,Yes,0,Attended
+A0713,P113,C07,2025-04-18,2025-05-17,56,F,12.3,730,Phone ,Consultation,No,1,No-Show
+A0714,P307,C03,2024-12-27,2025-01-25,56,M,12.4,730,App,Consultation,Yes,1,No-Show
+A0715,P065,C01,2025-01-03,2025-01-21,56,F,12.4,731,Walk-In,Consultation,No,0,Attended
+A0716,P059,C07,2025-01-06,2025-01-25,56,F,12.4,732,APP,Consultation,Yes,0,Attended
+A0717,P089,C08,2025-03-21,2025-04-07,56,F,12.4,732, Walk-In,Consultation,No,0,Attended
+A0718,P341,C04,2025-05-17,2025-06-12,56,M,12.5,733,Phone,Follow-up,No,0,No-Show
+A0719,P208,C08,2025-03-13,2025-04-04,56,M,12.5,734, App,Consultation,No,0,No-Show
+A0720,P022,C03,2025-05-21,2025-06-08,56,M,12.5,735,App ,Consultation,Yes,0,Attended
+A0721,P241,C03,2025-05-21,2025-06-15,56,M,12.5,735,App ,Consultation,No,0,Attended
+A0722,P031,C07,2025-06-03,2025-06-22,56,F,12.5,736,Phone ,Follow-up,No,1,No-Show
+A0723,P139,C01,2025-04-23,2025-05-11,56,M,12.6,737,App,Consultation,Yes,0,Attended
+A0724,P371,C06,2025-04-29,2025-05-17,56,M,12.6,737, Phone,Consultation,Yes,0,Attended
+A0725,P113,C04,2025-02-27,2025-03-19,56,M,12.6,738,phone,Follow-up,No,0,Attended
+A0726,P222,C03,2025-04-04,2025-05-02,56,M,12.6,739,PHONE,Follow-up,Yes,0,Attended
+A0727,P158,C02,2025-03-29,2025-04-21,56,F,12.7,739,Phone ,Follow-up,No,2,Attended
+A0728,P395,C02,2025-01-17,2025-02-07,56,F,12.7,740, App,Follow-up,Yes,0,Attended
+A0729,P126,C08,2025-04-21,2025-05-18,56,M,12.7,741, App,Consultation,No,0,Attended
+A0730,P021,C04,2024-12-20,2025-01-07,56,M,12.7,742,Phone ,Follow-up,Yes,0,Attended
+A0731,P262,C08,2025-03-29,2025-04-22,56,F,12.8,742,App ,Consultation,No,1,No-Show
+A0732,P057,C01,2025-05-02,2025-05-25,57,F,12.8,743,app,Consultation,Yes,0,No-Show
+A0733,P455,C06,2025-01-27,2025-02-17,57,M,12.8,744,APP,Consultation,Yes,0,No-Show
+A0734,P235,C06,2025-04-06,2025-05-03,57,F,12.8,744, App,Consultation,No,3,No-Show
+A0735,P608,C02,2025-04-26,2025-05-25,57,F,12.8,745,Phone,Follow-up,Yes,1,Attended
+A0736,P155,C04,2025-03-19,2025-04-12,57,F,12.9,746,app,Consultation,No,1,No-Show
+A0737,P313,C06,2025-03-03,2025-03-22,57,F,12.9,746,app,Follow-up,No,0,Attended
+A0738,P056,C05,2025-06-02,2025-06-17,57,M,12.9,747,app,Consultation,Yes,0,Attended
+A0739,P322,C07,2025-06-03,2025-06-23,57,F,12.9,748,APP,Consultation,Yes,0,No-Show
+A0740,P274,C03,2025-02-11,2025-03-10,57,F,13.0,749,Phone,Follow-up,No,2,Attended
+A0741,P431,C06,2025-02-08,2025-03-04,57,F,13.0,749,walk-in,Follow-up,No,1,Attended
+A0742,P523,C01,2025-02-28,2025-03-25,57,F,13.0,750,App,Consultation,No,1,Attended
+A0743,P665,C06,2025-04-18,2025-05-04,57,M,13.0,800,APP,Follow-up,No,0,Attended
+A0744,P079,C03,2025-04-05,2025-05-04,57,M,13.0,800, App,Consultation,Yes,0,Attended
+A0745,P085,C05,2025-05-18,2025-06-13,57,F,13.1,801,app,Consultation,Yes,1,Attended
+A0746,P248,C04,2025-02-08,2025-03-03,57,M,13.1,803,phone,Consultation,No,0,Attended
+A0747,P289,C06,2025-02-06,2025-03-01,57,M,13.2,804,app,Follow-up,No,1,No-Show
+A0748,P612,C04,2025-03-12,2025-04-04,57,F,13.2,806,Phone,Consultation,Yes,0,Attended
+A0749,P193,C08,2025-01-28,2025-02-22,57,M,13.2,807,app,Consultation,No,1,No-Show
+A0750,P200,C06,2025-04-17,2025-05-02,57,F,13.3,809,App ,Consultation,Yes,0,Attended
+A0751,P724,C05,2025-05-22,2025-06-17,57,M,13.3,810,app,Consultation,No,1,Attended
+A0752,P688,C01,2025-01-21,2025-02-09,57,F,13.4,812, App,Consultation,Yes,1,Attended
+A0753,P029,C06,2025-04-10,2025-05-01,57,F,13.4,813,Phone ,Consultation,No,1,No-Show
+A0754,P222,C05,2025-05-25,2025-06-22,57,M,13.4,814,Phone ,Consultation,Yes,0,No-Show
+A0755,P605,C01,2025-01-23,2025-02-18,57,M,13.5,816,APP,Follow-up,Yes,0,Attended
+A0756,P668,C01,2025-04-02,2025-04-24,57,M,13.5,817,Phone,Follow-up,No,0,Attended
+A0757,P003,C08,2025-03-21,2025-04-14,57,M,13.6,819,App ,Follow-up,No,1,No-Show
+A0758,P648,C03,2025-02-09,2025-03-04,57,M,13.6,820,Phone,Consultation,No,0,Attended
+A0759,P443,C02,2025-01-07,2025-01-22,58,M,13.6,822,phone,Consultation,Yes,0,Attended
+A0760,P150,C05,2025-01-10,2025-02-04,58,F,13.7,823,walk-in,Follow-up,No,1,No-Show
+A0761,P621,C05,2025-03-05,2025-03-28,58,M,13.7,824,phone,Follow-up,No,2,Attended
+A0762,P089,C05,2025-05-03,2025-05-19,58,F,13.8,826,Phone ,Consultation,No,0,No-Show
+A0763,P078,C01,2025-04-01,2025-04-18,58,F,13.8,827,app,Consultation,Yes,0,Attended
+A0764,P283,C06,2025-04-17,2025-05-13,58,F,13.8,829,phone,Consultation,No,0,No-Show
+A0765,P008,C05,2024-12-27,2025-01-15,58,M,13.9,830,APP,Consultation,No,0,Attended
+A0766,P129,C03,2025-04-29,2025-05-19,58,F,13.9,832,Phone ,Follow-up,Yes,0,Attended
+A0767,P630,C07,2025-05-03,2025-05-19,58,F,13.9,833,app,Follow-up,No,0,Attended
+A0768,P673,C02,2024-12-11,2025-01-02,58,M,14.0,835,APP,Consultation,Yes,0,Attended
+A0769,P174,C03,2025-04-08,2025-05-07,58,F,14.0,836,PHONE,Follow-up,No,0,Attended
+A0770,P498,C03,2025-05-08,2025-06-04,58,F,14.1,837,APP,Consultation,No,1,Attended
+A0771,P291,C04,2025-03-10,2025-03-25,58,M,14.1,839,Phone ,Consultation,Yes,0,Attended
+A0772,P198,C01,2025-05-24,2025-06-13,58,M,14.1,840,Phone,Follow-up,No,0,No-Show
+A0773,P423,C06,2025-02-04,2025-02-22,58,M,14.2,842, App,Consultation,No,0,Attended
+A0774,P635,C06,2024-12-19,2025-01-03,58,F,14.2,843,Walk-In ,Consultation,No,1,Attended
+A0775,P184,C07,2024-12-23,2025-01-21,58,F,14.3,845,Phone ,Consultation,No,2,No-Show
+A0776,P151,C06,2025-01-19,2025-02-08,58,M,14.3,846,App ,Consultation,Yes,0,Attended
+A0777,P402,C03,2025-04-09,2025-05-01,58,F,14.3,848,App ,Consultation,Yes,0,Attended
+A0778,P095,C03,2025-03-28,2025-04-24,58,F,14.4,849,app,Consultation,Yes,0,Attended
+A0779,P281,C08,2025-05-05,2025-05-21,58,F,14.4,850,Walk-In ,Follow-up,Yes,1,Attended
+A0780,P403,C01,2025-01-04,2025-01-22,58,M,14.5,852,PHONE,Follow-up,Yes,2,Attended
+A0781,P055,C07,2025-01-02,2025-01-22,58,F,14.5,853,Phone,Follow-up,Yes,0,Attended
+A0782,P360,C08,2025-05-30,2025-06-25,58,M,14.5,855,Walk-in,Consultation,Yes,0,Attended
+A0783,P260,C04,2025-01-17,2025-02-15,59,M,14.6,856,Walk-In,Consultation,No,0,Attended
+A0784,P259,C06,2025-01-23,2025-02-09,59,F,14.6,858, App,Consultation,No,0,Attended
+A0785,P071,C03,2024-12-09,2025-01-03,59,F,14.7,859,phone,Follow-up,No,0,No-Show
+A0786,P142,C01,2025-04-26,2025-05-22,59,F,14.7,860,WALK-IN,Consultation,No,0,No-Show
+A0787,P039,C03,2025-01-18,2025-02-06,59,F,14.7,862,App,Consultation,Yes,0,Attended
+A0788,P474,C08,2025-05-14,2025-06-04,59,F,14.8,863,App ,Consultation,No,2,No-Show
+A0789,P733,C07,2025-01-10,2025-02-03,59,F,14.8,865,App ,Consultation,No,3,No-Show
+A0790,P607,C07,2025-03-02,2025-03-26,59,F,14.9,866,Walk-In,Consultation,Yes,0,Attended
+A0791,P104,C01,2024-12-09,2025-01-02,59,F,14.9,868, Phone,Follow-up,Yes,1,Attended
+A0792,P391,C07,2025-04-14,2025-05-01,59,F,14.9,869,phone,Consultation,No,1,Attended
+A0793,P019,C06,2025-05-11,2025-06-01,59,M,15.0,871,Phone ,Consultation,Yes,0,Attended
+A0794,P040,C01,2025-04-02,2025-04-28,59,M,15.0,872, App,Follow-up,No,0,No-Show
+A0795,P078,C07,2025-02-03,2025-02-20,59,F,15.1,873,Phone ,Follow-up,Yes,0,Attended
+A0796,P051,C06,2025-01-16,2025-02-12,59,M,15.1,875,App ,Consultation,Yes,1,No-Show
+A0797,P571,C01,2025-05-26,2025-06-21,59,M,15.1,876,Phone ,Consultation,No,1,No-Show
+A0798,P061,C03,2025-04-29,2025-05-14,59,F,15.2,878,PHONE,Follow-up,No,0,Attended
+A0799,P364,C07,2025-02-22,2025-03-19,59,F,15.2,879,PHONE,Consultation,No,0,No-Show
+A0800,P328,C02,2025-04-21,2025-05-18,59,M,15.3,881, App,Consultation,Yes,0,Attended
+A0801,P512,C04,2025-05-12,2025-06-05,59,F,15.3,882,App ,Follow-up,Yes,0,Attended
+A0802,P727,C02,2025-02-07,2025-02-25,59,F,15.3,884,App ,Consultation,Yes,1,Attended
+A0803,P157,C03,2024-12-18,2025-01-12,59,F,15.4,885,Phone,Consultation,No,3,No-Show
+A0804,P102,C03,2025-05-20,2025-06-10,59,M,15.4,886,APP,Follow-up,Yes,0,No-Show
+A0805,P632,C03,2024-12-26,2025-01-20,60,M,15.5,888,App ,Follow-up,No,1,No-Show
+A0806,P100,C02,2025-04-28,2025-05-23,60,M,15.5,889,App ,Consultation,Yes,0,No-Show
+A0807,P084,C01,2025-02-27,2025-03-22,60,M,15.5,891,APP,Follow-up,No,0,Attended
+A0808,P221,C01,2025-02-21,2025-03-14,60,M,15.6,892,App,Consultation,Yes,0,Attended
+A0809,P227,C03,2025-03-20,2025-04-04,60,M,15.6,894,App ,Follow-up,Yes,0,Attended
+A0810,P014,C06,2025-04-15,2025-05-02,60,M,15.7,895,walk-in,Consultation,No,0,Attended
+A0811,P412,C04,2025-04-14,2025-05-10,60,F,15.7,897, Walk-In,Consultation,No,1,No-Show
+A0812,P194,C03,2025-04-06,2025-05-01,60,F,15.7,898, Phone,Follow-up,Yes,0,Attended
+A0813,P189,C03,2025-01-10,2025-02-06,60,F,15.8,899, App,Consultation,Yes,1,No-Show
+A0814,P174,C06,2025-01-29,2025-02-20,60,F,15.8,901, App,Consultation,Yes,0,Attended
+A0815,P750,C08,2025-01-14,2025-02-10,60,F,15.8,902,Phone ,Consultation,No,1,Attended
+A0816,P386,C04,2025-04-24,2025-05-20,60,F,15.9,904,phone,Follow-up,Yes,0,Attended
+A0817,P675,C03,2025-02-15,2025-03-02,60,M,15.9,905,Phone ,Follow-up,Yes,1,Attended
+A0818,P132,C07,2025-03-21,2025-04-13,61,F,16.0,907,app,Follow-up,Yes,0,Attended
+A0819,P020,C04,2024-12-21,2025-01-12,61,F,16.0,908,APP,Consultation,Yes,0,Attended
+A0820,P521,C04,2025-06-08,2025-06-23,61,F,16.0,909,App ,Consultation,No,0,Attended
+A0821,P094,C05,2024-12-13,2025-01-01,61,F,16.1,911,walk-in,Follow-up,Yes,1,Attended
+A0822,P709,C03,2025-02-05,2025-02-24,61,F,16.1,912,Walk-in,Follow-up,Yes,1,Attended
+A0823,P073,C06,2025-04-29,2025-05-18,61,M,16.2,914, App,Consultation,Yes,0,Attended
+A0824,P416,C06,2025-01-31,2025-02-24,61,M,16.2,915,Phone ,Follow-up,Yes,1,Attended
+A0825,P738,C06,2025-05-20,2025-06-13,61,M,16.2,917,phone,Follow-up,No,1,No-Show
+A0826,P067,C02,2025-02-21,2025-03-20,61,F,16.3,918,APP,Consultation,Yes,1,Attended
+A0827,P043,C06,2024-12-22,2025-01-21,61,M,16.3,920,App,Follow-up,No,0,No-Show
+A0828,P097,C04,2025-01-31,2025-02-25,61,M,16.4,921,phone,Consultation,Yes,0,Attended
+A0829,P666,C02,2025-01-10,2025-02-05,61,F,16.4,922,Phone ,Consultation,Yes,2,Attended
+A0830,P074,C08,2025-04-22,2025-05-20,61,F,16.4,924,app,Follow-up,Yes,0,Attended
+A0831,P543,C08,2025-05-28,2025-06-14,61,M,16.5,925,Phone ,Follow-up,Yes,0,Attended
+A0832,P063,C04,2025-04-25,2025-05-24,61,M,16.5,927,PHONE,Consultation,Yes,1,Attended
+A0833,P004,C03,2025-03-15,2025-04-04,61,F,16.6,928,App,Consultation,No,0,No-Show
+A0834,P098,C02,2025-05-09,2025-05-27,61,M,16.6,930,App ,Consultation,No,1,Attended
+A0835,P171,C05,2025-05-30,2025-06-24,61,M,16.6,931,phone,Consultation,No,0,Attended
+A0836,P689,C03,2025-04-19,2025-05-14,61,F,16.7,933,Walk-In ,Consultation,No,0,No-Show
+A0837,P200,C01,2024-12-25,2025-01-13,62,M,16.7,934,Walk-in,Consultation,Yes,0,Attended
+A0838,P684,C07,2025-03-25,2025-04-11,62,F,16.8,935,App ,Consultation,Yes,0,Attended
+A0839,P018,C06,2025-03-25,2025-04-11,62,M,16.8,937,PHONE,Consultation,No,0,Attended
+A0840,P152,C07,2025-02-18,2025-03-05,62,M,16.8,938,Walk-In ,Follow-up,Yes,0,No-Show
+A0841,P704,C08,2025-05-05,2025-05-23,62,F,16.9,940,App ,Follow-up,No,0,Attended
+A0842,P149,C03,2025-04-04,2025-04-25,62,F,16.9,941,app,Consultation,No,0,Attended
+A0843,P637,C04,2025-04-12,2025-04-27,62,F,17.0,943,Phone,Follow-up,No,0,Attended
+A0844,P390,C03,2025-04-28,2025-05-26,62,F,17.0,944,App ,Consultation,Yes,0,Attended
+A0845,P541,C07,2025-03-06,2025-03-28,62,F,17.0,945,App ,Consultation,Yes,0,Attended
+A0846,P430,C01,2025-04-16,2025-05-01,62,F,17.1,947, App,Consultation,No,0,Attended
+A0847,P022,C04,2025-05-27,2025-06-22,62,M,17.1,948, Phone,Consultation,Yes,1,Attended
+A0848,P129,C07,2025-04-11,2025-05-09,62,F,17.2,950, App,Consultation,No,3,No-Show
+A0849,P685,C08,2024-12-23,2025-01-20,62,F,17.2,951, Walk-In,Consultation,Yes,0,Attended
+A0850,P559,C03,2025-05-21,2025-06-05,62,M,17.2,953,phone,Consultation,Yes,1,Attended
+A0851,P206,C03,2025-01-01,2025-01-19,63,M,17.3,954,Phone,Consultation,No,0,Attended
+A0852,P413,C04,2025-01-03,2025-01-22,63,F,17.3,956,phone,Consultation,Yes,0,Attended
+A0853,P557,C08,2025-04-07,2025-04-26,63,M,17.4,957,Phone,Consultation,No,0,Attended
+A0854,P107,C06,2025-04-23,2025-05-10,63,F,17.4,958,Phone,Consultation,No,0,Attended
+A0855,P494,C05,2025-02-23,2025-03-25,63,M,17.4,960,APP,Consultation,No,2,No-Show
+A0856,P359,C02,2025-01-29,2025-02-18,63,M,17.5,961,Phone ,Consultation,No,2,No-Show
+A0857,P173,C07,2025-02-03,2025-02-26,63,M,17.5,963,App,Consultation,No,0,Attended
+A0858,P234,C05,2025-01-10,2025-02-04,63,F,17.6,964,APP,Consultation,No,0,No-Show
+A0859,P091,C03,2025-04-14,2025-05-09,63,F,17.6,966,App ,Consultation,No,0,Attended
+A0860,P292,C03,2025-04-27,2025-05-21,63,F,17.6,967, Phone,Consultation,No,0,Attended
+A0861,P634,C01,2025-03-22,2025-04-21,63,M,17.7,969,phone,Follow-up,No,0,No-Show
+A0862,P469,C01,2025-05-14,2025-06-13,63,M,17.7,970,app,Follow-up,Yes,1,No-Show
+A0863,P345,C02,2024-12-17,2025-01-08,63,F,17.7,971,App,Follow-up,No,1,Attended
+A0864,P131,C03,2025-01-21,2025-02-09,63,M,17.8,973,phone,Consultation,Yes,1,No-Show
+A0865,P018,C02,2025-05-26,2025-06-19,63,F,17.8,974,Walk-in,Follow-up,No,1,No-Show
+A0866,P492,C04,2025-03-21,2025-04-12,64,M,17.9,976,Phone ,Consultation,Yes,0,No-Show
+A0867,P411,C01,2025-01-03,2025-01-28,64,F,17.9,977,app,Consultation,Yes,0,No-Show
+A0868,P180,C05,2025-01-07,2025-01-25,64,M,17.9,979,App,Follow-up,No,0,Attended
+A0869,P143,C01,2025-05-03,2025-05-25,64,F,18.0,980, App,Consultation,No,1,No-Show
+A0870,P467,C03,2025-03-24,2025-04-17,64,F,18.0,981, App,Consultation,No,1,Attended
+A0871,P714,C07,2024-12-14,2025-01-09,64,M,18.1,983,PHONE,Consultation,Yes,1,No-Show
+A0872,P417,C07,2025-01-20,2025-02-06,64,F,18.1,984,App ,Consultation,No,0,Attended
+A0873,P207,C06,2025-03-28,2025-04-20,64,M,18.1,986,Walk-In ,Follow-up,No,0,Attended
+A0874,P670,C06,2025-03-16,2025-04-07,64,M,18.2,987,Phone,Consultation,No,0,Attended
+A0875,P490,C04,2025-06-04,2025-06-28,64,M,18.2,989,App,Consultation,Yes,2,No-Show
+A0876,P013,C02,2025-05-23,2025-06-17,64,M,18.3,990,App ,Consultation,No,0,Attended
+A0877,P453,C05,2025-03-09,2025-03-24,64,F,18.3,992,Phone ,Consultation,Yes,0,Attended
+A0878,P667,C04,2025-04-23,2025-05-19,64,M,18.3,993,PHONE,Consultation,Yes,0,Attended
+A0879,P700,C01,2024-12-20,2025-01-15,64,F,18.4,994,APP,Follow-up,Yes,0,Attended
+A0880,P104,C07,2025-02-19,2025-03-10,64,F,18.4,996,app,Follow-up,No,1,Attended
+A0881,P178,C05,2025-03-13,2025-04-04,65,M,18.5,997,phone,Follow-up,No,1,Attended
+A0882,P045,C03,2025-06-08,2025-06-25,65,M,18.5,999,APP,Consultation,No,1,Attended
+A0883,P375,C07,2025-04-11,2025-05-08,65,F,18.5,1000,App ,Consultation,No,1,No-Show
+A0884,P488,C01,2025-01-16,2025-02-10,65,F,18.6,1002,App,Consultation,No,0,Attended
+A0885,P339,C01,2025-04-04,2025-04-23,65,M,18.6,1003, App,Consultation,Yes,1,No-Show
+A0886,P472,C03,2025-02-17,2025-03-18,65,F,18.7,1005,App,Consultation,Yes,0,No-Show
+A0887,P039,C05,2025-02-25,2025-03-12,66,F,18.7,1006, Walk-In,Consultation,No,0,Attended
+A0888,P485,C03,2025-02-26,2025-03-20,66,F,18.7,1007, App,Consultation,No,0,Attended
+A0889,P188,C08,2025-01-18,2025-02-02,66,F,18.8,1009,Phone,Consultation,No,0,Attended
+A0890,P735,C01,2025-04-03,2025-04-22,66,F,18.8,1010, App,Follow-up,No,0,Attended
+A0891,P155,C06,2025-03-05,2025-03-23,66,M,18.9,1012,phone,Consultation,Yes,0,Attended
+A0892,P209,C01,2024-12-16,2025-01-12,66,F,18.9,1013,phone,Consultation,No,1,No-Show
+A0893,P613,C03,2025-05-01,2025-05-27,66,F,18.9,1015,App ,Follow-up,Yes,0,Attended
+A0894,P070,C06,2025-02-16,2025-03-17,67,M,19.0,1016,app,Consultation,No,0,No-Show
+A0895,P093,C07,2025-03-16,2025-04-12,67,M,19.0,1017,App,Consultation,No,2,No-Show
+A0896,P465,C05,2025-03-13,2025-04-09,67,M,19.1,1019, Phone,Consultation,Yes,3,No-Show
+A0897,P125,C07,2025-03-11,2025-04-08,67,M,19.1,1020,App ,Follow-up,No,0,No-Show
+A0898,P471,C02,2025-03-24,2025-04-09,67,F,19.1,1022,App ,Consultation,Yes,0,Attended
+A0899,P329,C07,2025-03-16,2025-04-11,67,M,19.2,1023,APP,Consultation,No,1,Attended
+A0900,P428,C02,2025-02-17,2025-03-06,67,M,19.2,1025, Phone,Consultation,Yes,1,Attended
+A0901,P516,C07,2025-05-06,2025-05-22,67,M,19.3,1026,App,Follow-up,No,0,Attended
+A0902,P695,C05,2025-02-02,2025-02-18,67,M,19.3,1028,App,Consultation,Yes,1,Attended
+A0903,P130,C02,2025-01-16,2025-02-14,68,F,19.3,1029,APP,Consultation,Yes,0,No-Show
+A0904,P028,C01,2025-03-07,2025-03-26,68,F,19.4,1030,Walk-In ,Follow-up,Yes,0,Attended
+A0905,P376,C04,2024-12-26,2025-01-23,68,F,19.4,1032,Walk-In,Consultation,No,1,Attended
+A0906,P542,C02,2025-01-05,2025-01-28,68,F,19.5,1033,Walk-In ,Consultation,No,2,No-Show
+A0907,P048,C06,2025-06-08,2025-06-24,68,M,19.5,1035,app,Follow-up,No,2,Attended
+A0908,P228,C03,2025-03-08,2025-04-01,68,F,19.5,1036,App ,Consultation,Yes,3,No-Show
+A0909,P626,C03,2025-03-14,2025-04-04,68,F,19.6,1038, Phone,Consultation,No,0,Attended
+A0910,P372,C02,2025-05-22,2025-06-18,68,M,19.6,1039,PHONE,Consultation,Yes,1,Attended
+A0911,P246,C02,2025-04-29,2025-05-14,68,F,19.6,1041,phone,Follow-up,No,0,Attended
+A0912,P528,C08,2024-12-10,2025-01-03,68,M,19.7,1042,Phone ,Follow-up,Yes,0,Attended
+A0913,P718,C07,2025-05-17,2025-06-13,68,M,19.7,1043,PHONE,Consultation,Yes,2,No-Show
+A0914,P254,C05,2025-02-14,2025-03-05,68,M,19.8,1045,PHONE,Consultation,Yes,0,Attended
+A0915,P236,C01,2025-02-08,2025-03-01,68,F,19.8,1046,phone,Follow-up,No,2,Attended
+A0916,P325,C06,2025-05-02,2025-05-24,69,F,19.8,1048,app,Consultation,No,0,Attended
+A0917,P476,C08,2025-03-18,2025-04-02,69,M,19.9,1049,Phone,Follow-up,No,0,Attended
+A0918,P059,C07,2025-05-15,2025-06-03,69,F,19.9,1051,App,Consultation,Yes,0,Attended
+A0919,P060,C07,2025-03-28,2025-04-12,69,M,20.0,1052,Phone,Follow-up,Yes,1,Attended
+A0920,P060,C06,2025-04-26,2025-05-11,69,M,20.0,1053,app,Consultation,No,0,Attended
+A0921,P236,C08,2025-05-22,2025-06-21,69,F,20.0,1055,App,Consultation,Yes,0,Attended
+A0922,P033,C02,2025-03-06,2025-04-04,69,M,20.1,1056,Phone,Consultation,No,0,No-Show
+A0923,P072,C03,2025-06-08,2025-06-23,69,M,20.1,1058,APP,Consultation,Yes,0,Attended
+A0924,P220,C02,2025-04-22,2025-05-17,69,F,20.2,1059,PHONE,Consultation,Yes,0,Attended
+A0925,P462,C06,2024-12-25,2025-01-13,69,M,20.2,1061, App,Follow-up,Yes,0,No-Show
+A0926,P284,C08,2025-01-14,2025-02-07,69,F,20.2,1062,Phone ,Consultation,No,0,Attended
+A0927,P269,C01,2025-03-30,2025-04-28,69,M,20.3,1064, App,Consultation,Yes,1,No-Show
+A0928,P024,C07,2025-05-29,2025-06-21,69,M,20.3,1065,Phone,Follow-up,No,2,No-Show
+A0929,P165,C03,2025-01-28,2025-02-17,70,M,20.4,1066,Phone ,Consultation,Yes,1,Attended
+A0930,P163,C05,2025-04-20,2025-05-14,70,M,20.4,1068,app,Consultation,Yes,3,No-Show
+A0931,P147,C01,2025-02-02,2025-02-27,70,F,20.4,1069,PHONE,Follow-up,No,0,No-Show
+A0932,P691,C01,2025-04-30,2025-05-15,70,M,20.5,1071,phone,Consultation,Yes,0,Attended
+A0933,P740,C07,2024-12-28,2025-01-24,70,F,20.5,1072,App,Follow-up,Yes,0,Attended
+A0934,P170,C01,2024-12-21,2025-01-05,70,M,20.6,1074, Walk-In,Follow-up,Yes,1,Attended
+A0935,P701,C06,2025-06-09,2025-06-25,70,M,20.6,1075,phone,Consultation,Yes,0,Attended
+A0936,P606,C07,2025-03-29,2025-04-19,71,M,20.6,1077,App ,Follow-up,No,1,No-Show
+A0937,P625,C04,2025-01-23,2025-02-08,71,M,20.7,1078,App,Consultation,No,0,No-Show
+A0938,P069,C08,2025-05-04,2025-06-02,71,F,22.5,1079, Phone,Consultation,Yes,2,Attended
+A0939,P046,C01,2025-03-22,2025-04-06,71,M,22.6,1081,Walk-in,Consultation,Yes,0,Attended
+A0940,P299,C01,2025-03-04,2025-03-23,71,F,22.7,1082, Walk-In,Consultation,Yes,0,Attended
+A0941,P220,C01,2024-12-10,2025-01-09,71,M,22.8,1084,PHONE,Consultation,Yes,1,Attended
+A0942,P189,C03,2025-04-20,2025-05-11,71,F,23.0,1085,APP,Consultation,Yes,1,Attended
+A0943,P154,C06,2025-06-08,2025-06-28,71,F,23.1,1087,Phone,Follow-up,No,0,Attended
+A0944,P400,C02,2025-03-20,2025-04-15,72,M,23.2,1088,phone,Follow-up,No,0,No-Show
+A0945,P551,C05,2025-03-12,2025-03-27,72,F,23.3,1090,Walk-in,Follow-up,No,0,Attended
+A0946,P134,C02,2024-12-16,2025-01-02,72,F,23.4,1091,APP,Follow-up,Yes,0,Attended
+A0947,P160,C04,2025-03-14,2025-04-09,72,F,23.5,1092,App ,Follow-up,Yes,1,Attended
+A0948,P066,C05,2025-05-12,2025-06-15,72,F,23.7,1094,APP,Follow-up,No,1,Attended
+A0949,P744,C03,2024-12-07,2025-01-12,73,M,23.8,1095,app,Consultation,No,0,Attended
+A0950,P618,C01,2025-02-17,2025-03-21,73,F,23.9,1097, Phone,Follow-up,Yes,0,Attended
+A0951,P396,C06,2025-04-30,2025-06-03,73,M,24.0,1098,Walk-In ,Consultation,Yes,0,Attended
+A0952,P508,C06,2024-11-29,2025-01-04,73,F,24.1,1100, App,Follow-up,No,1,No-Show
+A0953,P531,C03,2025-03-21,2025-04-24,73,F,24.2,1101,app,Consultation,Yes,2,Attended
+A0954,P358,C01,2025-05-10,2025-06-14,74,F,24.3,1102,Phone ,Follow-up,Yes,0,No-Show
+A0955,P108,C02,2025-02-18,2025-03-24,74,M,24.5,1104,Walk-In,Follow-up,Yes,0,Attended
+A0956,P609,C08,2025-04-17,2025-05-26,74,F,24.6,1105,app,Consultation,No,0,No-Show
+A0957,P514,C03,2024-12-05,2025-01-14,74,M,24.7,1107,App,Follow-up,Yes,0,No-Show
+A0958,P639,C05,2024-12-31,2025-02-01,74,M,24.8,1108,App,Follow-up,Yes,0,Attended
+A0959,P663,C05,2025-05-17,2025-06-17,74,F,24.9,1110,Walk-in,Consultation,No,1,Attended
+A0960,P191,C05,2024-12-09,2025-01-13,74,F,25.0,1111, Phone,Consultation,No,2,No-Show
+A0961,P582,C01,2024-12-22,2025-02-04,74,F,25.2,1113,app,Consultation,Yes,2,Attended
+A0962,P049,C01,2025-04-15,2025-05-23,74,F,25.3,1114,App,Consultation,Yes,1,No-Show
+A0963,P185,C05,2025-02-18,2025-04-03,74,F,25.4,1115,Phone ,Consultation,No,1,No-Show
+A0964,P225,C01,2024-12-04,2025-01-04,74,M,25.5,1117, Phone,Consultation,No,0,No-Show
+A0965,P226,C04,2024-12-17,2025-01-19,74,M,26.0,1118, App,Consultation,Yes,2,Attended
+A0966,P399,C02,2025-02-26,2025-04-09,75,F,26.4,1120,APP,Consultation,Yes,0,Attended
+A0967,P042,C06,2024-11-27,2025-01-07,76,M,26.7,1121,phone,Follow-up,No,4,No-Show
+A0968,P038,C07,2025-04-05,2025-05-08,77,F,27.1,1123,app,Consultation,Yes,2,No-Show
+A0969,P544,C01,2025-04-04,2025-05-17,77,F,27.4,1124,Phone ,Consultation,Yes,1,No-Show
+A0970,P064,C04,2025-03-24,2025-04-24,77,F,27.8,1126, App,Consultation,Yes,0,Attended
+A0971,P101,C07,2024-12-11,2025-01-11,77,F,28.2,1127,APP,Consultation,No,1,Attended
+A0972,P540,C07,2025-01-12,2025-02-19,78,F,28.5,1128,PHONE,Consultation,No,1,No-Show
+A0973,P037,C07,2025-03-22,2025-04-23,78,F,28.9,1130,app,Consultation,No,1,Attended
+A0974,P249,C05,2025-04-01,2025-05-12,78,F,29.2,1131,app,Consultation,Yes,0,No-Show
+A0975,P646,C02,2025-03-29,2025-05-13,78,F,29.6,1133,phone,Consultation,Yes,3,No-Show
+A0976,P019,C04,2025-01-20,2025-02-27,78,F,30.0,1134,PHONE,Consultation,Yes,0,Attended
+A0977,P199,C01,2025-04-04,2025-05-11,78,F,30.3,1136, App,Consultation,No,1,No-Show
+A0978,P420,C03,2025-02-02,2025-03-14,79,M,30.7,1137,App,Consultation,No,0,No-Show
+A0979,P118,C06,2025-05-04,2025-06-13,80,F,31.0,1138,Phone ,Follow-up,No,0,No-Show
+A0980,P554,C01,2025-01-04,2025-02-05,80,M,31.4,1140,WALK-IN,Consultation,No,1,No-Show
+A0981,P191,C02,2025-03-29,2025-05-04,82,F,31.8,1141, App,Consultation,Yes,1,No-Show
+A0982,P644,C04,2025-02-10,2025-03-18,82,F,32.1,1143,Walk-In ,Follow-up,No,0,No-Show
+A0983,P553,C05,2025-03-21,2025-04-21,82,F,32.5,1144,App,Consultation,No,0,Attended
+A0984,P027,C08,2025-01-07,2025-02-15,82,F,32.8,1146,Phone,Follow-up,Yes,0,No-Show
+A0985,P272,C02,2024-12-14,2025-01-14,82,F,33.2,1147,app,Follow-up,No,1,No-Show
+A0986,P568,C02,2025-04-21,2025-06-02,82,F,33.6,1149,PHONE,Follow-up,No,1,No-Show
+A0987,P344,C03,2024-12-28,2025-01-28,82,F,33.9,1150, Phone,Follow-up,Yes,0,Attended
+A0988,P310,C03,2024-12-20,2025-01-25,82,F,34.3,5000,App,Consultation,No,4,No-Show
+A0989,P394,C05,2025-04-24,2025-06-05,82,F,34.6,6000,Phone ,Consultation,No,1,No-Show
+A0990,P622,C01,2025-03-24,2025-04-27,82,M,35.0,7500, App,Consultation,No,1,No-Show
+A9990,P990,C01,2025-01-10,N/A,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9991,P991,C01,2025-01-10,2025-02-30,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9992,P992,C01,2025-01-10,2025-13-45,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9993,P993,C01,2025-01-10,invalid,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9994,P994,C01,2025-01-10,unknown,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9995,P995,C01,2025-01-10,2025-99-99,35,F,10.5,500,App,Consultation,Yes,0,Attended
+A9980,P980,C02,2025-01-15,2025-01-25,42,M,12.0,600,Phone,Consultation,No,1,
+A9981,P981,C02,2025-01-15,2025-01-25,42,M,12.0,600,Phone,Consultation,No,1,
+A9982,P982,C02,2025-01-15,2025-01-25,42,M,12.0,600,Phone,Consultation,No,1,
+A9983,P983,C02,2025-01-15,2025-01-25,42,M,12.0,600,Phone,Consultation,No,1,
+A0201,P598,C03,2025-04-11,2025-04-17,37,F,3.8,448,App,Consultation,No,2,No-Show
+A0202,P183,C04,2025-04-01,2025-04-02,37,M,3.8,449,app,Consultation,Yes,0,Attended
+A0203,P545,C02,2025-01-20,2025-01-25,37,F,3.8,450, App,Consultation,No,0,Attended
+A0204,P128,C07,2025-05-18,2025-05-24,37,F,3.8,451,App,Consultation,No,0,Attended
+A0205,P103,C06,2025-06-19,2025-06-22,37,F,3.8,452,PHONE,Follow-up,Yes,0,Attended
+A0206,P120,C07,2025-02-16,2025-02-20,37,F,3.9,453,APP,Consultation,Yes,0,Attended
+A0207,P347,C06,2025-03-17,2025-03-20,37,M,3.9,454,PHONE,Follow-up,Yes,1,Attended
+A0208,P145,C08,2025-03-17,2025-03-21,37,M,3.9,456,Walk-In ,Follow-up,No,0,Attended
+A0209,P225,C05,2025-05-14,2025-05-18,37,M,3.9,457,App,Follow-up,Yes,0,Attended
+A0210,P257,C03,2025-02-13,2025-02-17,37,M,3.9,458,app,Consultation,No,1,No-Show
+A0211,P525,C01,2025-06-13,2025-06-19,37,M,3.9,459,PHONE,Consultation,Yes,0,Attended
+A0212,P207,C02,2025-02-25,2025-02-27,37,M,3.9,460,app,Follow-up,Yes,0,Attended
+A0213,P311,C02,2025-02-15,2025-02-17,37,F,4.0,461,Walk-In,Consultation,Yes,0,Attended
+A0214,P374,C02,2025-01-12,2025-01-18,37,M,4.0,462,Phone ,Follow-up,Yes,1,Attended
+A0215,P251,C02,2025-03-31,2025-04-04,37,M,4.0,463,App,Follow-up,No,1,Attended
+A0216,P653,C07,2025-06-21,2025-06-22,37,F,4.0,464, Phone,Consultation,Yes,0,Attended
+A0217,P229,C07,2025-02-04,2025-02-11,37,F,4.0,466,APP,Follow-up,Yes,1,Attended
+A0218,P369,C02,2025-05-18,2025-05-23,37,M,4.0,467,phone,Consultation,Yes,0,Attended
+A0219,P382,C07,2025-06-11,2025-06-12,37,M,4.1,468,Walk-In ,Follow-up,Yes,0,Attended
+A0220,P214,C02,2025-01-24,2025-01-25,37,F,4.1,469,App,Consultation,No,0,Attended

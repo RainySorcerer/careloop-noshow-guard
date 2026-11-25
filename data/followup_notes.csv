@@ -1,0 +1,31 @@
+note_id,appointment_id,note_text
+N001,A0014,Patient stated they forgot about the appointment as no SMS reminder was received.
+N002,A0011,Patient lives far away and was unable to arrange transportation due to heavy rain.
+N003,A0047,Patient felt consultation fee was too high and could not afford it this month.
+N004,A0015,
+N005,A0058,Patient fell suddenly ill in the morning with high fever and went to local emergency.
+N006,A0060,Patient had an urgent work meeting scheduled at office and could not take leave.
+N007,A0018,"Mareez ne kaha: bilkul bhool gaye the appointment ke baare mein, koi message ya reminder nahi aaya tha."
+N008,A0071,"Patient's vehicle broke down on highway, causing severe transit delay."
+N009,A0030,Patient mentioned personal reasons and said they were not feeling up to coming today.
+N010,A0035,Patient was asked to cover a colleague's shift at work on short notice.
+N011,A0043,Patient forgot the scheduled time due to busy routine.
+N012,A0072,Cab cancelled twice in the morning; could not reach clinic on time.
+N013,A0077,Diagnostic fee seemed expensive compared to other labs.
+N014,A0083,Attended an emergency with elderly family member.
+N015,A0090,"Office meeting ran late, missed evening appointment."
+N016,A0096,"Thought appointment was scheduled for next week, forgot date."
+N017,A0100,"Heavy traffic jam on main flyover, returned home."
+N018,A0102,Could not pay specialist charges this week.
+N019,A0107,Sudden stomach bug and vomiting in the morning.
+N020,A0109,Urgent client visit required traveling out of town.
+N021,A0110,Did not receive reminder notification on mobile.
+N022,A0115,Metro service was delayed by over an hour.
+N023,A0129,Prescription follow-up fee higher than expected.
+N024,A0146,"Child got injured at school, had to rush there."
+N025,A0147,Supervisor refused last-minute permission to leave office.
+N026,A0148,"Forgot completely, requested to reschedule for Saturday."
+N027,A0164,Severe waterlogging in residential lane after rain.
+N028,A0167,Financial constraints this month; postponing non-urgent care.
+N029,A0170,"Acute migraine attack, unable to travel."
+N030,A0171,Conference call got extended past clinic closing hours.
